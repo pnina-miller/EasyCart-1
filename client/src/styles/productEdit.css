@@ -1,0 +1,172 @@
+.form-product {
+  /* padding: 15px !important; */
+  border-radius: none !important;
+}
+
+.from-enter-details {
+  background-color: #f2f2f2b3 !important;
+  border: none !important;
+  border-radius: none !important;
+  border-radius: 0px !important;
+}
+
+.height-area {
+  height: 117px !important;
+}
+
+.lable-in-form {
+  font-weight: 650 !important;
+}
+
+.btn-product-edit {
+  background-color: transparent !important;
+  border-radius: 2px !important;
+  border-width: 1px !important;
+  border-color: var(--first-color) !important;
+  box-shadow: none !important;
+  background-color: var(--first-color) !important;
+  color: var(--tenth-color) !important;
+  height: fit-content !important;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 26px;
+  padding-right: 26px;
+  font-weight: 500 !important;
+  margin-top: 13px !important;
+  margin-left: 26vh;
+
+}
+
+.btn-product-edit:hover {
+  box-shadow: none !important;
+  background-color: var(--first-color) !important;
+  color: var(--tenth-color) !important;
+}
+
+.from-enter-details::placeholder {
+  color: black !important;
+  opacity: 1;
+  letter-spacing: 0px !important;
+}
+
+.col-easy-crop {
+  height: 48vh !important;
+}
+
+.bgColorWhite>.css-yk16xz-control{
+  background-color: #f2f2f2b3 !important;
+}
+.bgColorWhite>.css-yk16xz-control>.css-g1d714-ValueContainer {
+  background-color: #f2f2f2b3 !important;
+}
+
+.bgColorWhite>.css-26l3qy-menu {
+  max-height: 150px !important;
+}
+
+.bgColorWhite {
+  height: 6vh !important;
+  background-color: #f2f2f2b3 !important;
+}
+
+.bgColorWhite:hover {
+  background-color: #f2f2f2b3 !important;
+}
+
+.css-g1d714-ValueContainer {
+  z-index: 4;
+  /* //touch */
+  /* height: 5vh !important; */
+  background-color: white!important;
+}
+
+.modalProductsize {
+  min-width: 70vw;
+  width: 80vw;
+}
+
+.iconEdtingProduct {
+  cursor: pointer;
+  width: 2vw;
+  margin-left: 62px;
+  margin-top: 10px;
+}
+
+.IconsEditing {
+  position: absolute !important;
+  z-index: 60;
+}
+
+.buttonDeleteProduct {
+  width: 3vw !important;
+  border-color: transparent !important;
+  background-color: transparent !important;
+  color: black !important;
+}
+
+.buttonDeleteProduct:focus {
+  box-shadow: none !important;
+  border-top-left-radius: 15px;
+}
+
+.removeProduct {
+  position: absolute;
+  margin: top -5px;
+  margin-left: 30px;
+  z-index: 55;
+}
+
+.removeProducts {
+  position: absolute;
+  margin: top -5px;
+  margin-left: 3px;
+  z-index: 55;
+}
+
+.product-margin {
+  margin-left: -2px;
+  margin-top: 18px;
+}
+
+.underline-product-editing {
+  color: var(--twelve-color) !important;
+  margin-left: 15px;
+  /* margin-bottom: 33px; */
+  margin-top: 3px;
+}
+
+.back-edit {
+  background-color: var(--eleven-color) !important;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding: 4px;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.back-edit>svg {
+  height: 17px;
+  width: 15px;
+}
+
+.height-area-product {
+  min-height: 105px !important;
+}
+
+.wrapperArrow {
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+.cursor-product-edit {
+  cursor: default !important;
+}
+
+.wrapperCropperProduct>div>.Demo-cropContainer-1 {
+  height: 330px !important;
+}
+

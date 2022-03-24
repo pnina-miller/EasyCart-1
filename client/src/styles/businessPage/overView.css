@@ -1,0 +1,246 @@
+.wrapperBuisness {
+  margin-top: 77px;
+}
+
+
+.name {
+  top: 609px;
+  left: 1513px;
+  width: 325px;
+  height: 95px;
+  font: var(--unnamed-font-style-normal) normal 900 71px/96px var(--unnamed-font-family-segoe-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-707070);
+  text-align: right;
+  font: normal normal 900 120px/50px Segoe UI;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
+
+.menu {
+  top: 716px;
+  left: 1391px;
+  width: 425px;
+  height: 46px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 34px/46px var(--unnamed-font-family-segoe-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-707070);
+  text-align: right;
+  font: normal normal normal 45px/35px Segoe UI;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
+
+.text {
+  position: absolute;
+  right: 245px;
+  top: 860px;
+}
+
+@media screen and (max-width: 2250px) {
+  .name {
+    width: 325px;
+    font: normal normal 900 120px/50px Segoe UI;
+  }
+
+  .text {
+    right: 200px;
+    top: 585px;
+  }
+
+  .menu {
+    font: normal normal normal 45px/35px Segoe UI;
+    width: 425px;
+  }
+}
+
+@media screen and (max-width: 2000px) {
+  .name {
+    width: 325px;
+    font: normal normal 900 105px/50px Segoe UI;
+  }
+
+  .text {
+    right: 135px;
+    top: 500px;
+  }
+
+  .menu {
+    font: normal normal normal 40px/35px Segoe UI;
+    width: 425px;
+  }
+}
+
+@media screen and (max-width: 1700px) {
+  .name {
+    width: 325px;
+    font: normal normal 900 90px/75px Segoe UI
+  }
+
+  .text {
+    right: 100px;
+    top: 320px;
+  }
+
+  .menu {
+    font: normal normal normal 35px/35px Segoe UI;
+    width: 425px;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .name {
+    width: 179px;
+    font: normal normal 900 60px/100px Segoe UI;
+  }
+
+  .text {
+    right: 87px;
+    top: 330px;
+  }
+
+  .menu {
+    font: normal normal normal 27px/35px Segoe UI;
+    width: 310px;
+  }
+}
+
+@media screen and (max-width: 1120px) {
+   .text {
+    top: 220px;
+  }
+
+  .name {
+    font: normal normal 900 60px/100px Segoe UI;
+  }
+
+  .menu {
+    font: normal normal normal 24px/15px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .text {
+    top: 194px;
+  }
+
+  .name {
+    font: normal normal 900 44px/133px Segoe UI;
+  }
+
+  .menu {
+    font: normal normal normal 17px/15px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 830px) {
+   .text {
+    top: 160px;
+  }
+
+  .name {
+    font: normal normal 900 40px/136px Segoe UI;
+  }
+
+  .menu {
+    font: normal normal normal 15px/15px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 720px) {
+
+  .text {
+    top: 120px;
+  }
+
+  .name {
+    font: normal normal 900 33px/140px Segoe UI;
+  }
+
+  .menu {
+    font: normal normal normal 13px/15px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 620px) {
+   .text {
+    top: 80px;
+    right: 60px;
+  }
+  .name {
+    font: normal normal 900 30px/150px Segoe UI;
+  }
+
+  .menu {
+    font: normal normal normal 11px/15px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 530px) {
+   .text {
+    top: 65px;
+    right: 40px;
+  }
+
+  .name {
+    font: normal normal 900 30px/160px Segoe UI;
+  }
+
+  .menu {
+    font: normal normal normal 11px/15px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+  .text {
+    top: 47px;
+    right: 37px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+   .text {
+    top: 40px;
+    right: 30px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+   .text {
+    top: 35px;
+    right: 20px;
+  }
+
+  .name {
+    font: normal normal 900 25px/170px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 340px) {
+   .text {
+    top: 20px;
+    right: 20px;
+  }
+
+  .name {
+    font: normal normal 900 25px/170px Segoe UI;
+  }
+}
+
+@media screen and (max-width: 290px) {
+   .text {
+    top: 20px;
+    right: 0px;
+  }
+
+  .name {
+    font: normal normal 900 25px/170px Segoe UI;
+  }
+
+  .menu {
+    font: normal normal normal 10px/15px Segoe UI;
+  }
+}

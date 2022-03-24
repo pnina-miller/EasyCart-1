@@ -1,0 +1,14 @@
+ .fontHeader {
+     font-size: 16px !important;
+ }
+
+ .modalWidth {
+     width: 75vw;
+     min-width: 75vw;
+ }
+
+ .bodyHeight {
+     height: 70vh !important;
+     min-height: 70vh !important;
+ }
+

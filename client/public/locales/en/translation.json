@@ -1,0 +1,355 @@
+{
+  "language": "en",
+  "header": {
+    "link-1": "Home",
+    "link-2": "Categories",
+    "link-3": "Create my cart",
+    "link-4": "Sign up",
+    "link-5": "Language",
+    "link-6": "Sign in",
+    "login":"login"
+  },
+  "footer": {
+    "paragraph": "Download EasyCart App! Available for Android and iOS:)",
+    "category-title": "Popular Categories",
+    "category-1": "Food",
+    "category-2": "Shopping",
+    "category-3": "Proffesionals",
+    "category-4": "Medicine",
+    "category-5": "Vacation",
+    "links": "Links",
+    "link-1": "About Us",
+    "link-2": "How It Works",
+    "link-3": "Contact Us",
+    "link-4": "Plan & Pricing",
+    "link-5": "Blog",
+    "support-title": "Help & Support",
+    "support-1": "Support Forum",
+    "support-2": "Terms & Conditions",
+    "support-3": "Support Policy",
+    "support-4": "FAQs",
+    "copyrights": "2021 EasyCart. All Rights Reserved©"
+  },
+  "pricing": {
+    "title": "Advertise with us and get free leads",
+    "basic": "Basic",
+    "extended": "Extended",
+    "professional": "Professional",
+    "free": "0",
+    "extended-price": "29",
+    "professional-price": "99",
+    "button": "Choose plan",
+    "next": "next",
+    "featured": "Featured",
+    "basic-terms": "Free of charge one standard listing active forever",
+    "extended-terms": "One time fee for one listing, highlighted in search results",
+    "professional-terms": "Unlimited listings and lifetime availability, promoted all",
+    "basic-d-1": "One Listing",
+    "basic-d-2": "Non-Featured",
+    "basic-d-3": "Limited Support",
+    "extended-d-1": "One Listing",
+    "extended-d-2": "Featured In Search Results",
+    "extended-d-3": "24/7 Support",
+    "professional-d-1": "Unlimited Listings",
+    "professional-d-2": "Featured In Search Results",
+    "professional-d-3": "24/7 Support"
+  },
+  "comming-soon": {
+    "title": "(:We are launching this feature soon",
+    "days": "DAYS",
+    "hours": "HOURS",
+    "minutes": "MINUTES",
+    "seconds": "SECONDS",
+    "notify-me": "Notify Me",
+    "email-placeholder": "Your email address"
+  },
+  "signin": {
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "password": "Password",
+    "user-name": "Username",
+    "forgot-password": "?Forgot password",
+    "confirm-password": "Confirm Password",
+    "existing-account": "?Have an account",
+    "need-account": "?Need an account",
+    "hi": "Hi",
+    "update-profile": "Update Profile",
+    "user-profile": "User Profile",
+    "signout": "Sign Out"
+  },
+  "about": {
+    "seo-title": "About | Easycart",
+    "seo-description": "EasyCart is A local search engine for finding points of interest, businesses, events and a huge variety of search areas. The data is collected from all over the web and by EasyCart users on a daily basis, automatically. The algorithm of the site and the information within it are regularly updated.",
+    "about-title": "About",
+    "about-general": "EasyCart is A local search engine for finding points of interest, businesses, events and a huge variety of search areas. The data is collected from all over the web and by EasyCart users on a daily basis, automatically. The algorithm of the site and the information within it are regularly updated."
+  },
+  "terms": {
+    "seo-title": "Terms and Conditions | Easycart",
+    "seo-description": "Terms and Conditions"
+  },
+  "signup": "Sign Up",
+  "password": "Password",
+  "userName": "UserName",
+  "forgotpassword": "?Forgot password",
+  "confirmpassword": "Confirm Password",
+  "existingaccount": "?Do you already have an account",
+  "needaccount": "?Need an account",
+  "hi": "Hi",
+  "update-profile": "Update Profile",
+  "user-profile": "User Profile",
+  "help": "Help",
+  "settings": "Settings",
+  "signout": "Sign Out",
+  "mydashboard": "Dashboard",
+  "favorites": "Favorites",
+  "search": "Search",
+  "info": "How It Works",
+  "policy-privacy": "Policy and Privacy",
+  "my-account": "My account",
+  "ownership": "Take ownership of a business",
+  "prices": "Prices",
+  "adress": "Bar Kochba 4, 6th floor",
+  "phone": "Phone",
+  "email": "E-Mail",
+  "links": "Helpful Links",
+  "copyrights": "2020 EasyCart. All Rights Reserved©",
+  "now-open": "now open",
+  "info-section": {
+    "title": "Plan your dream vacation",
+    "subtitle-1": "Plan your dream vacation and discover some of the best tips from around the world from our partners and friends",
+    "subtitle-2": "!Discover some of the most popular records",
+    "info-d-1": "Find an interesting place",
+    "info-d-2": "Contact the experts",
+    "info-d-3": "Take ownership of a business",
+    "info-t-1": "The information on the site is updated on almost all businesses in the world :) In the management area you can update the business details, add photos, update classifications, opening hours and improve the visibility of the business page in Xbiz.",
+    "info-t-2": "Our vision is to help people and we put a lot of effort into improving it. We at Xbiz believe that it is possible to make useful technology that works in a simple and beneficial way.",
+    "info-t-3": "Do you have a business? Apparently it already appears on Xbiz! Manage your page and gain access to potential customers in your business environment"
+  },
+  "search-section": {
+    "typed-text-static": "Find close",
+    "subtitle": "Explore top-rated attractions, activities and more",
+    "search-placeholder": "What are you looking for?",
+    "location-placeholder": "Type a place...",
+    "use-current-location": "Use my current location",
+    "icon-1": "Around Tel aviv",
+    "icon-2": "Change location"
+  },
+  "categories": {
+    "categories": "Categories",
+    "restaurants": "Restaurants",
+    "hotels": "Hotels",
+    "events": "Events",
+    "sport": "Sport"
+  },
+  "errors": {
+    "page-not-found": "We're sorry, but the page you were looking for doesn't exist"
+  },
+  "additional-filters": {
+    "filters": "Filters",
+    "more-filters": "More filters",
+    "update": "Update",
+    "default-sort": "Default sort"
+  },
+  "more-filters":{
+    "open": "Open",
+    "popularity":"Popularity",
+    "services":"Services"
+  },
+  "business-details": {
+    "overview": "Overview",
+    "prices": "Prices",
+    "location": "Location",
+    "comments": "Comments",
+    "add-a-comment": "Add a comment",
+    "services": "Services",
+    "elevator": "Elevator in the building",
+    "immediate-order": "Immediate order",
+    "free-parking": "Free parking on premises",
+    "smoking-is-allowed": "Smoking is allowed",
+    "friendly-seating-area": "Friendly seating area",
+    "friendly-workspace": "Friendly workspace",
+    "navigation": "Navigation",
+    "site": "Home site",
+    "message": "Send massege",
+    "events": "Events",
+    "all-photos": "all photos and videos",
+    "share": "Share",
+    "save": "Save",
+    "take-ownership": "Take ownership on business",
+    "reviews": "Reviews",
+    "about": "About",
+    "categories": "Categories",
+    "imge":"Images",
+    "video":"Videos",
+    "dishes": "Our dishes",
+    "recommendations": "Recommendations"
+  },
+  "user-menu-profile": {
+    "hello": "Hi",
+    "my-profile": "My Profile",
+    "my-dashboard": "My Dashboard",
+    "my-favorites": "My Favorites",
+    "my-businesses": "My Businesses",
+    "add-business": "Add Business",
+    "logout": "Logout",
+    "open": "Open"
+  },
+  "opening-hours": {
+    "opening-hours": "Opening Hours",
+    "open-now": "Open now",
+    "close-now": "Close now",
+    "closed-on-Saturday": "Closed on Saturday",
+    "sunday": "Sun",
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat"
+  },
+  "dashboard": {
+    "hi": "Hi",
+    "my-business": "My business",
+    "visited-my-business": "Visited my business",
+    "responses-my-business": "Responses to my business",
+    "favorites": "Favorites"
+  },
+  "wish-list": {
+    "favorites": "Favorites",
+    "my-favorite": "My Favorites",
+    "delete": "Delete"
+  },
+  "user-profiles": {
+    "business-for": "My Businesses"
+  },
+  "item-result-search-scond": {
+    "open-now": "Open now",
+    "close-now": "Close now"
+  },
+  "contact": {
+    "find-us": "Find Us",
+    "phone": "Phone",
+    "fax": "Fax",
+    "website": "Website",
+    "contact-us": "Contact Us",
+    "email": "*Email",
+    "message": "Message",
+    "subject": "*Subject",
+    "name": "*Name",
+    "sending": "Sending",
+    "our-office": "Our office",
+    "required-fields": "You must enter required fields",
+    "street": "4 Bar Kochba Street",
+    "city": "Bnei Brak"
+  },
+  "add-business": {
+    "enter-business-name": "It is mandatory to enter a business name",
+    "update": "Update Business",
+    "add": "Add Business",
+    "gallery": "Gallery"
+  },
+  "basic-details": {
+    "basic-details": "Basic Information",
+    "business-name": "Business Name | keyword",
+    "category": "Category",
+    "short-business-name": "Business Name"
+  },
+  "location": {
+    "location": "Location",
+    "add-Seo-key-word": "add SEO key",
+    "address": "Address",
+    "zip-code": "Zip code",
+    "cities-for-advertising": "Cities for advertising",
+    "add-city": "Add a city",
+    "add-key-Word": "Add a key word",
+    "seo": "Key words | SEO",
+    "seo-description": "Description words | SEO"
+  },
+  "opening-hour": {
+    "opening-hours": "Opening Hours",
+    "opening-hour": "Opening Hour",
+    "closing-hour": "Closing Hour",
+    "closed": "Closed",
+    "open": "Open"
+  },
+  "details": {
+    "details": "Details",
+    "description": "Description",
+    "phone": "Phone",
+    "website": "Website",
+    "email": "Email",
+    "amenities": "Amenities",
+    "elevator-in-building": "Elevator in building",
+    "friendly-workspace": "Friendly workspace",
+    "instant-book": "Instant Book",
+    "wireless-internet": "Wireless Internet",
+    "free-parking-on-premises": "Free parking on premises",
+    "smoking-allowed": "Smoking allowed",
+    "events": "Events",
+    "optional": "optional",
+    "google": "Google+"
+  },
+  "pricing-add-business": {
+    "title": "Business payment packages"
+  },
+  "my-business": {
+    "business": "Business",
+    "my-business": "My Business",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "confirm",
+    "cancel": "cancel"
+  },
+  "navigator": {
+    "main": "Main",
+    "title2": "Business",
+    "my-business": "My Business",
+    "add-business": "Add Business",
+    "favorite": "Favorites",
+    "title3": "acount",
+    "my-profile": "My Profile",
+    "update-profile": "Update Profile",
+    "signout": "Sign Out"
+  },
+  "updataProfile": {
+    "my-profile": "My Profile",
+    "profile-details": "Profile Details",
+    "ppload-photo": "Upload Photo",
+    "your-name": "First Namee",
+    "last-name": "Last Name",
+    "youTube": "YouTube",
+    " instagram": "Instagram",
+    "linkedin": "Linkedin",
+    "phone": "Phone",
+    "notes": "Notes",
+    "twitter": "Twitter",
+    "facebook": "Facebook",
+    "email": "Email",
+    "save-changes": "Save Changes",
+    "change-password": "Change Password"
+  },
+  "most-preferred-business": "The most preferred business",
+  "top-businesses": "Top Business",
+  "searchResults": {
+    "serach-results-for": "Search result for",
+    "location": "in location",
+    "show-more": "Show more",
+    "note": "We do not have the relevant information for data coming from google"
+  },
+  "sideBar": {
+    "open": "Open",
+    "now": "Open now",
+    "night": "Open at night",
+    "saturday": "Open on Saturday",
+    "hours": "Day and  hour"
+  },
+  "addComment": {
+    "leave-reply": "Leave A Reply",
+    "email-published": "your email adress wiil not be published",
+    "submit": "Submit Comment",
+    "your-message": "Your Message"},
+  "cards": {
+    "categories":"Categories",
+    "address":"Address"
+  }
+}

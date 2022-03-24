@@ -1,0 +1,200 @@
+.ulStyle {
+  list-style: none;
+}
+.colorIcon .a {
+  stroke: var(--first-color) !important;
+}
+.plusIconCss {
+  display: flex;
+  width: 100%;
+  z-index: 2 !important;
+  cursor: pointer;
+  justify-content: flex-end;
+  height: 100%;
+  padding: 1rem;
+  position: absolute;
+}
+.plusIconCss>svg {
+  fill: #2b2020c2;
+}
+.commentsIcon {
+  cursor: pointer !important;
+  color: rgb(112, 112, 112) !important
+}
+
+.ulStyle>li {
+  height: 5vh;
+}
+
+.textColorYellow {
+  color: var(--ninth-color);
+}
+.borderRight {
+  border-right: solid 1px !important;
+  border-color: #d7dadc !important;
+}
+
+.hCol {
+  height: 4vh !important;
+}
+.subheading {
+    width: 100%;
+    height: 7vh;
+    background-color: #f2f3f4;
+    border-radius: 8px;
+}
+.subText {
+  padding-top: 1.5vh;
+}
+.description {
+  padding-top: 4vh;
+  width: 80%;
+  padding-bottom: 2vh;
+}
+.underline {
+  width: 100%;
+}
+
+.open-hours-dropdown #dropdown-item-button {
+  color: #6c757d !important;
+}
+
+.wComments {
+  width: 85%;
+  margin-left: 8%;
+}
+
+.businessCategories {
+  display: inline-grid;
+  cursor: pointer !important;
+}
+.businessCategoriesOacity {
+  display: inline-grid;
+  cursor: not-allowed;
+  opacity:0.2
+}
+
+.svgWrapp>svg {
+  fill: grey !important;
+}
+
+.disabled-svg> {
+  fill: #a99f9f52 !important
+}
+
+‏ .svgbColor>svg {
+  fill: var(--first-color) !important;
+}
+
+.published {
+  color: var(--fourth-color);
+}
+
+.recomment-input {
+  width: 100%;
+  background: none !important;
+  border-radius: 4px;
+  opacity: 1;
+  font-size: medium;
+  padding: 10px;
+  border: none;
+  background-color: var(--eleven-color) !important;
+  min-height: 20vh;
+}
+
+.recomment-input:focus {
+  outline: none !important;
+}
+
+.changeHover {
+  background-color: transparent !important;
+  border-radius: 3px;
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-top: 3px;
+  padding-bottom: 4px;
+  border-color: #80808066;
+}
+.buttonOver{
+  background-color: transparent !important;
+  border-radius: 3px;
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-top: 3px;
+  padding-bottom: 4px;
+  border-color: #80808066;
+  cursor: default !important;
+}
+.buttonOver:hover{
+  border-color: #80808066 !important;
+
+}
+.changeHover:focus {
+  box-shadow: none !important;
+  border-color: var(--first-color) !important;
+}
+
+.changeHover:hover {
+  border-color: var(--first-color) !important;
+}
+
+.title-modal {
+  font-size: 3vh !important;
+  font-weight: 500 !important;
+  color: grey !important;
+  padding: none !important
+}
+
+.size-modal {
+  width: 90vw !important;
+  height: 80vh !important;
+}
+
+.b-modal {
+  border-radius: none !important;
+}
+
+.img{
+  margin-top: 2vh !important;
+  margin-left: 3vw;
+  border-radius: 50%;
+  height: 10vh;
+  width: 10vh;
+}
+.m-description{
+  margin-top: 2vh !important;
+  margin-left: 3vw;
+}
+
+.modalWidthImage {
+  width: 65vw !important;
+  min-width: 65vw !important;
+}
+
+.daysOpenHours{
+font-size: x-small;
+}
+.openHours{
+font-size: x-small;
+background-color: var(--forteen-color) !important;
+border-radius: 1.8px;
+
+}
+.wrapperOpenHours{
+  width: 22%;
+}
+.c-margin{
+  margin-left: 37px;
+}
+.subheadingContainer{
+ width: 103%;;
+}
+.p-text{
+  padding-left: 30.5px;
+}
+.cursor-p{
+ cursor: pointer;
+}
+.cursor-d{
+ cursor: default;
+}

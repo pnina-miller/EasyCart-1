@@ -1,0 +1,580 @@
+ .HeightHeader {
+  height: 67vh;
+}
+
+.HeightHeader .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.backColor {
+  background-image: url('../../images/view-city-from-ground.png');
+  background: linear-gradient(rgba(0, 0, 1, 0.5), rgba(0, 0, 0, 0)), url('../../images/view-city-from-ground.png') 100% 100% / cover no-repeat;
+  width: 100%;
+  background-size: cover;
+}
+
+.location-search-input {
+  background-color: transparent !important;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.heightSearch {
+  height: 10vh !important;
+}
+
+#inputGroup2 .autocomplete-dropdown-container {
+  width: 150%;
+}
+
+.wrapper-current-location {
+  display: flex;
+  position: absolute;
+  top: 9px;
+  right: 13px;
+  height: 35px;
+}
+
+.borderRadiuseSearch {
+  border-radius: 14px !important;
+}
+
+#inputGroup2 {
+  width: 100% !important;
+  background-color: var(--third-color) !important;
+}
+
+.col-inputGroup2 {
+  padding: 0px !important;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-current {
+  color: var(--second-color) !important;
+  background: none !important;
+  color: var(--fourth-color) !important;
+}
+
+.btn-current svg {
+  margin-left: 5px !important;
+  margin-bottom: 7px !important;
+}
+
+.btn-current:hover {
+  color: var(--second-color) !important;
+  background: none !important;
+}
+
+.btn-current:focus, .btn-current:active {
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.whiteColor {
+  background-color: #f8f9faa1 !important;
+}
+
+.btnColor {
+  background-color: var(--fifth-color) !important;
+  opacity: 0.8;
+  color: var(--third-color) !important;
+}
+
+.borderNone {
+  border: none !important;
+}
+
+.borderRadiuse {
+  border-radius: 10px !important;
+}
+
+.textWhite {
+  color: var(--third-color);
+}
+
+.setText {
+  font-weight: 200 !important;
+}
+
+.focusCancel:focus {
+  background-color: none !important;
+}
+
+/* .cancelHover:hover {
+  background-color: none !important;
+} */
+
+.cancelHover {
+  padding-bottom: 10px !important;
+}
+
+.focusCancel:focus {
+  box-shadow: none !important;
+}
+
+.heightRow {
+  height: 60% !important;
+}
+
+.backColorInput {
+  background-color: var(--third-color) !important;
+  border-radius: 5px !important;
+}
+
+.backColorInput:focus {
+  outline: -webkit-focus-ring-color auto 0px !important;
+}
+
+.css-yk16xz-control, .css-1pahdxg-control {
+  border: none !important;
+  height: 100% !important;
+}
+
+.css-tlfecz-indicatorContainer {
+  display: none !important;
+}
+
+.css-1pahdxg-control:hover, span:hover {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.css-1pahdxg-control {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.css-1hb7zxy-IndicatorsContainer {
+  display: none !important;
+}
+
+.css-b8ldur-Input:hover {
+  border: none !important;
+}
+
+.css-26l3qy-menu {
+  margin-top: 0px !important;
+  margin-left: -12px !important;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  background: #a09b9b;
+}
+
+.font {
+  font-size: 120%;
+}
+
+.TextBtn {
+  color: black !important;
+  /* color: var(--first-color) !important; */
+  font-weight: 200 !important;
+}
+
+/* .TextBtn:hover {
+  color: var(--first-color) !important;
+} */
+
+.mtRow {
+  margin-top: 130px !important;
+}
+
+.cancelHover:hover {
+  background-color: transparent !important;
+  color: var(--first-color) !important;
+}
+
+.btnx {
+  padding-bottom: 38px !important;
+  padding-right: 3px !important;
+}
+
+@media screen and (max-width: 300px) {
+  .TextBtn {
+    font-size: 10pt !important;
+  }
+  .h1Responsive {
+    font-size: 19pt;
+  }
+  .h3Responsive {
+    font-size: 13pt;
+  }
+  .font {
+    font-size: 10pt;
+  }
+  .mtRow {
+    margin-top: 90px !important;
+  }
+}
+
+@media screen and (max-width: 993px) {
+  .mtRow {
+    margin-top: 70px !important;
+  }
+}
+
+.widthBtn {
+  width: 100% !important;
+}
+
+.options, .no-options {
+  margin-top: 10vh;
+  position: absolute !important;
+  margin-bottom: 1rem !important;
+  list-style: none !important;
+  z-index: 2000 !important;
+  width: 100% !important;
+  background-color: white !important;
+  padding: 1rem !important;
+  border-bottom-left-radius: 1rem !important;
+  border-bottom-right-radius: 1rem !important;
+  border-radius: 15px;
+}
+
+.options {
+  max-height: 50vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  border-bottom-left-radius: 1rem !important;
+  border-bottom-right-radius: 1rem !important;
+  margin-bottom: 1rem;
+}
+
+.options {
+  margin-top: 10vh;
+}
+
+.overFlowSearch {
+  overflow: visible !important;
+  width: 100% !important;
+  margin-top: 0px !important;
+}
+
+#inputGroup2>:first-child {
+  width: 65%;
+}
+
+.wrapperApp>.App {
+  width: 78% !important;
+}
+
+.options>li:hover {
+  background-color: #bcc0bf73;
+}
+
+.options>li:active {
+  color: white;
+  background-color: #1d201f73;
+}
+
+.options>li {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 720px) and (max-width:1200px) {
+  .wrapperApp>.App {
+    width: 72% !important;
+  }
+}
+
+@media screen and (min-width: 300px) {
+  .change-location-row {
+    width: 98%
+  }
+}
+
+@media screen and (min-width: 767px) {
+  .change-location-row {
+    width: 91%
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .change-location-row {
+    width: 84%
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .change-location-row {
+    width: 75%
+  }
+}
+
+.dbOptions>svg {
+  height: 3vh;
+  width: 3vw;
+}
+
+.dbOptions>img {
+  height: 18px;
+  margin-left: 2px;
+  width: 18px;
+}
+
+‏ .search>.heightSearch {
+  background-color: transparent !important;
+  color: black !important
+}
+
+.btnNewStyle {
+  color: white !important;
+  background-color: #F2BB27 !important;
+  border: none !important;
+  font-size: 17px !important;
+  font-weight: 600 !important;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+
+.white-color-input {
+  background-color: white !important;
+}
+
+.search-style {
+  box-shadow: 0 0px 0px 0 rgb(0 0 0 / 66%), 0 1px 11px 0 rgb(0 0 0 / 26%);
+  background-color: white !important;
+} 
+/* 
+.HeightHeader {
+  height: 75vh;
+}
+
+.backColor {
+  background-image: url('../../images/view-city-from-ground.png');
+  background: linear-gradient(rgba(0, 0, 1, 0.5), rgba(0, 0, 0, 0)), url('../../images/view-city-from-ground.png') 100% 100% / cover no-repeat;
+  width: 100%;
+  background-size: cover;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.heightSearch {
+  height: 10vh !important;
+}
+
+.btn-current{
+  color: var(--second-color) !important;
+  background: none !important;
+}
+.btn-current:hover{
+  color: var(--second-color) !important;
+  background: none !important;
+}
+
+.whiteColor {
+  background-color: var(--third-color) !important;
+}
+
+.btnColor {
+  background-color: var(--first-color) !important;
+  color: var(--third-color) !important;
+}
+
+.borderNone {
+  border: none !important;
+}
+
+.borderRadiuse {
+  border-radius: 10px !important;
+}
+
+.textWhite {
+  color: var(--third-color);
+}
+
+.setText {
+  font-weight: 200 !important;
+  /* line-height: 50px !important; *//*
+}
+
+
+.focusCancel:focus {
+  background-color: none !important;
+}
+
+.cancelHover:hover {
+  background-color: none !important;
+}
+
+.focusCancel:focus {
+  box-shadow: none !important;
+}
+
+.heightRow {
+  height: 60% !important;
+}
+
+.backColorInput {
+  background-color: var(--third-color) !important;
+  border-radius: 5px !important;
+}
+
+.backColorInput:focus {
+  outline: -webkit-focus-ring-color auto 0px !important;
+}
+
+.css-yk16xz-control, .css-1pahdxg-control {
+  border: none !important;
+  height: 100% !important;
+}
+
+.css-tlfecz-indicatorContainer {
+  display: none !important;
+}
+
+.css-1pahdxg-control:hover, span:hover {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.css-1pahdxg-control {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.css-1hb7zxy-IndicatorsContainer {
+  display: none !important;
+}
+
+.css-b8ldur-Input:hover {
+  border: none !important;
+}
+
+.css-26l3qy-menu {
+  margin-top: 0px !important;
+  margin-left: -12px !important;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  background: #a09b9b;
+}
+
+::-webkit-scrollbar-thumb:hover {}
+
+.font {
+  font-size: 120%;
+}
+
+.css-g1d714-ValueContainer {
+  height: 100% !important;
+}
+
+.TextBtn {
+  color: var(--third-color) !important;
+  font-weight: 200 !important;
+}
+
+.TextBtn:hover {
+  color: var(--first-color) !important;
+}
+
+.mtRow {
+  margin-top: 130px !important;
+}
+
+.cancelHover:hover {
+  background-color: transparent !important;
+  color: var(--first-color) !important;
+}
+
+@media screen and (max-width: 300px) {
+  .TextBtn {
+    font-size: 10pt !important;
+  }
+  .h1Responsive {
+    font-size: 19pt;
+  }
+  .h3Responsive {
+    font-size: 13pt;
+  }
+  .font {
+    font-size: 10pt;
+  }
+  .mtRow {
+    margin-top: 90px !important;
+  }
+}
+
+@media screen and (max-width: 993px) {
+  .mtRow {
+    margin-top: 70px !important;
+  }
+}
+
+.widthBtn {
+  width: 100% !important;
+}
+
+.no-options {
+  position: absolute;
+}
+
+.options, .no-options {
+  position: absolute !important;
+  margin-bottom: 1rem !important;
+  list-style: none !important;
+  z-index: 2000 !important;
+  width: 100% !important;
+  background-color: white !important;
+  padding: 1rem !important;
+  margin-top: -8px !important;
+  border-bottom-left-radius: 1rem !important;
+  border-bottom-right-radius: 1rem !important;
+}
+
+.options {
+  max-height: 25vh;
+  overflow-y: scroll;
+  overflow-x:hidden;
+  border-bottom-left-radius: 1rem !important;
+  border-bottom-right-radius: 1rem !important;
+  margin-bottom: 1rem;
+}
+
+.overFlowSearch {
+  overflow: visible !important;
+}
+
+#inputGroup2>:first-child {
+  width: 90%;
+}
+
+.wrapperApp>.App {
+  width: 78% !important;
+}
+
+@media screen and (min-width: 720px) and (max-width:1200px) {
+  .wrapperApp>.App {
+    width: 72% !important;
+  }
+} */

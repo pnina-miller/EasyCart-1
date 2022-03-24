@@ -1,0 +1,125 @@
+.products-container {
+    border: 0.5px solid grey;
+    min-height: 60vh;
+}
+
+.buttonCreate {
+    color: var(--first-color) !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.buttonCreate:hover {
+    color: var(--first-color) !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.buttonCreate:focus {
+    box-shadow: none;
+}
+
+.iconCreate>svg {
+    fill: var(--fourth-color);
+}
+
+.cursorCreate {
+    cursor: pointer;
+}
+
+.createStore {
+    opacity: 0.5 !important;
+}
+
+.buttonsProduct {
+    text-align: center !important;
+}
+
+.deleteProduct {
+    position: absolute;
+    cursor: pointer;
+    width: 3vw !important;
+    z-index: 8;
+    border-color: transparent !important;
+    background-color: transparent !important;
+    color: black !important;
+}
+
+.deleteProduct:focus {
+    box-shadow: none !important;
+    border-top-left-radius: 15px;
+}
+
+.imgProduct {
+    height: 29vh;
+    width: 16vw;
+    border-radius: 15px;
+}
+
+.nameProduct {
+    position: absolute;
+    top: 25vh
+}
+
+.addEditing {
+    position: absolute !important;
+    z-index: 60;
+}
+
+.deleteProduct {
+    position: absolute;
+    margin: top -5px;
+    margin-left: 30px;
+    z-index: 55;
+}
+
+.iconEdting {
+    cursor: pointer;
+    width: 2vw;
+    margin-left: 62px;
+    margin-top: 10px;
+}
+
+.buttonDelete {
+    width: 3vw !important;
+    border-color: transparent !important;
+    background-color: transparent !important;
+    color: black !important;
+}
+
+.buttonDelete:focus {
+    box-shadow: none !important;
+    border-top-left-radius: 15px;
+}
+
+.backColorStore {
+    background-color: white !important;
+    animation-name: textGrowing;
+}
+
+.createAnimate {
+    color: #f9fbfda1 !important;
+    width: 120px !important;
+    display: flex;
+    justify-content: center;
+}
+
+.createAnimate:hover {
+    animation-duration: 1s;
+    font-weight: 600;
+    color: white !important;
+    font-size: 14px !important;
+}
+
+.hFontWeight {
+    font-weight: 775;
+}
+
+.greyText {
+    color: #767676;
+    font-weight: 500;
+}
+
+.breakLine {
+    font-size: 15px;
+}

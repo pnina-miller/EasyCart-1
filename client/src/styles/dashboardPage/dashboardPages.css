@@ -1,0 +1,23 @@
+.title-my-businesses {
+    margin-top: 13vh;
+    margin-left: -1vw;
+    width: 70vw;
+    font-size: 3vh;
+    border-bottom: solid 1px var(--first-color);
+}
+
+.p-side {
+    padding-left: 0px !important;
+}
+
+.dashboard-tab {
+    background-color: var(--second-color);
+}
+
+.add-businsess-link {
+    align-self: center;
+}
+
+.fillColor {
+    fill: "black" !important;
+}

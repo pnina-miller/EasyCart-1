@@ -1,0 +1,209 @@
+.input-edit {
+  border: none !important;
+}
+
+.input-edit:focus-visible {
+  outline: none !important;
+}
+
+.number::-webkit-outer-spin-button, ::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-area {
+  overflow: hidden;
+  border: none !important;
+}
+
+.input-area:focus-visible {
+  border: solid 1px var(--forteen-color) !important;
+  outline: none !important;
+}
+
+.input-area:hover {
+  border: solid 1px var(--forteen-color) !important;
+  outline: none !important;
+  background-color: #f7f7f759!important;
+}
+
+.input-service {
+  border: 1px solid #e9ecef !important;
+  height: 6vh !important;
+}
+
+.div-services .a {
+  stroke: #c0af18!important;
+}
+
+.div-check-box {
+  border: 1px solid #b4b4b4 !important;
+  border-radius: 50%;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.div-services {
+  position: relative;
+  padding: 11px;
+  font-size: 13px;
+}
+
+.add {
+  display: flex !important;
+  height: 30px;
+  font-size: small !important;
+  padding-left: 6px;
+  padding-right: 8px;
+  text-align: center;
+  width: 10vw;
+  color: white;
+  margin-top: 7vh !important;
+}
+
+.btn-save-div {
+  margin-top: -87px;
+}
+
+.disabled {
+  color: #a99f9f52 !important
+}
+
+.disabled-svg> {
+  fill: #a99f9f52 !important
+}
+
+.title {
+  color: grey;
+  font-size: x-large !important;
+}
+
+.business-input {
+  font-size: x-large !important;
+}
+
+.change-address {
+  width: 100%;
+  border: none !important;
+  color: grey
+}
+
+.change-address:hover {
+  outline: none !important;
+  height: 4vh;
+  border-radius: 3px;
+  border: solid 1px var(--forteen-color) !important;
+  color: grey;
+}
+
+.change-address:focus-visible {
+  height: 4vh;
+  outline: none !important;
+  border-radius: 3px;
+  border: solid 1px var(--forteen-color) !important;
+  color: grey
+}
+
+.change-input {
+  width: 77%;
+  border: none !important;
+  color: grey
+}
+
+.change-input:hover {
+  outline: none !important;
+  border-radius: 3px;
+  border: solid 1px var(--forteen-color) !important;
+  color: grey;
+}
+
+.change-input:focus-visible {
+  outline: none !important;
+  border-radius: 3px;
+  border: solid 1px var(--forteen-color) !important;
+  color: grey
+}
+
+.color-about {
+  background-color: #f2f3f4 !important;
+  font-weight: 600 !important;
+  font-size: x-large !important;
+}
+
+.editComments {
+  border: none !important;
+  background-color: #adb5bd70 !important;
+  cursor: default !important;
+}
+
+.editTitle {
+  color: #adb5bd66 !important;
+}
+
+.editComments:focus {
+  box-shadow: none !important;
+}
+
+.textareaEditing {
+  cursor: no-drop !important;
+}
+
+.auto-edit {
+  border: none !important;
+  background-color: transparent !important;
+}
+.editSubCategories{
+  /* background-color: #adb5bd29 !important; */
+  width: 105%;
+  height: 7vh;
+  border-radius: 8px;
+}
+
+.svgStyle {
+  fill: #ced4da !important;
+}
+
+/* .opacityIcon{
+  opacity: 0.3 !important;
+} */
+
+.business-name {
+  font-weight: bold;
+  font-size: xx-large !important;
+  margin-left: 2rem;
+}
+
+.div-edit {
+  padding-left: 3.5rem;
+  padding-right: 3.5rem;
+  border-radius: 5px !important;
+}
+
+.wrapperAddImages>svg {
+  height: 14px;
+  width: 14px;
+  fill: #7d7b7b;
+}
+
+.addImgBtn {
+  padding: 3px;
+  background-color: white;
+  border: solid 1px;
+  border-radius: 7px;
+  padding-left: 12px;
+  padding-right: 10px;
+  color: #7d7b7b;
+  font-size: 14px;
+  margin-right: 22px;
+  margin-top: -59px !important;
+  z-index: 999999999999;
+}
+
+.placeAddBtn {
+  margin-top: -20px;
+}

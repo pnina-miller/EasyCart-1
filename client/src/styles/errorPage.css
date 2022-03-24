@@ -1,0 +1,79 @@
+#not-found {
+  margin: 40px 0 80px 0;
+}
+
+#not-found.center {
+  text-align: center;
+}
+
+#not-found h2 {
+  text-align: center;
+  font-size: 220px;
+  line-height: 210px;
+  font-weight: 500;
+  letter-spacing: 0.5;
+}
+.p-404 {
+  margin-bottom: -1.5rem;
+  margin-top: 5rem;
+}
+
+#not-found p {
+  text-align: center;
+  font-size: 30px;
+  line-height: 48px;
+  display: inline-block;
+  margin-top: 19px;
+  color: var(--fourth-color);
+}
+
+#not-found svg {
+  color: var(--fifth-color);
+  font-size: 120px;
+  position: relative;
+  top: -19px;
+  padding: 15px;
+  margin: -41px;
+}
+
+.main-search-input {
+  justify-content: center !important;
+}
+
+.focusNone {
+  margin: 2px;
+  width: 129px;
+    border-radius: 10px !important;
+}
+.focusNone:hover,
+.focusNone:focus {
+  border: none !important;
+}
+.main-search-input-item {
+  background-color: var(--almost-white) !important;
+  border-radius: 10px !important;
+  border: none !important;
+}
+#not-found .input-search{
+  border-radius: 10px !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+.btnColor{
+  border: none !important;
+}
+@media (max-width: 767px) {
+  #not-found h2 {
+    font-size: 110px;
+    line-height: 134px;
+  }
+
+  #not-found p {
+    font-size: 20px;
+    line-height: 38px;
+  }
+  #svg-questionMark {
+    width: 150px;
+    height: 150px;
+  }
+}

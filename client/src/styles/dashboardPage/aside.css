@@ -1,0 +1,45 @@
+.hrUnderline{
+    border-top: 1px solid #707070 !important;
+   margin-top: 1%;
+}
+.fontDashboard{
+    font-size: 12px !important;
+}
+.pro-sidebar .pro-menu .pro-menu-item > .pro-inner-item{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+.pro-sidebar .pro-menu {
+ padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+.fontDashboard svg{
+    height: 14px;
+    
+}
+.pro-sidebar{
+    width: 229px !important;
+    min-width: 231px !important
+}
+
+.fontDashboard>svg{
+    color: white !important;
+
+}
+
+.icon-color{
+    fill: white !important;
+}
+
+.h-aside{
+    /* max-height: 150px; */
+    overflow: auto;
+}
+.h-container{
+    margin-top: 60px;
+}
+.h-w{
+    height:50px;
+    width:70px;
+}
+

@@ -1,0 +1,156 @@
+.con {
+  width: 140%;
+  height: 110%;
+  top: 10p;
+}
+
+.styleMap {
+  height: 40vh;
+  width: 100%;
+}
+
+.font {
+  font-size: x-large !important;
+}
+
+.buttonStyle {
+  background-color: var(--first-color);
+  color: var(--third-color);
+  border: none !important;
+  height: 6vh;
+  border-radius: 5px;
+}
+
+.address-box-container {
+  text-align: center !important;
+  justify-content: right !important;
+  background: gray;
+  color: white;
+}
+
+.contact-form-group {
+  width: 75vw !important;
+  background: #f2f2f8 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  border: 1px solid white;
+  margin: 12px
+}
+
+.styleButton {
+  color: red !important;
+}
+
+.contact-input {
+  width: 100% !important;
+  background: none !important;
+  border-radius: 4px;
+  opacity: 1;
+  font-size: medium;
+  padding: 10px;
+  border: none;
+  text-align: start;
+}
+
+.contact-massage {
+  width: 100% !important;
+  height: 20vh;
+  background: none !important;
+  border-radius: 4px;
+  opacity: 1;
+  font-size: medium;
+  padding: 10px;
+  border: none
+}
+
+.contact-input:focus-visible {
+  outline: none !important;
+}
+
+.contact-massage:focus-visible {
+  outline: none !important;
+}
+
+.contact-input:focus {
+  outline: none !important
+}
+
+.contact-page .submit-button1:active, .contact-page .submit-button1:hover {
+  color: var(--third-color) !important;
+  background: transparent var(--first-color) !important;
+  box-shadow: none !important;
+}
+
+.contact-page .submit-button1 {
+  border: 2px solid #79817e !important;
+  border-radius: 10px !important;
+  width: 200px !important;
+  font: normal 22px/32px !important;
+  color: var(--third-color) !important;
+  text-align: center !important;
+  letter-spacing: 0.31px !important;
+  text-transform: capitalize !important;
+  mix-blend-mode: normal !important;
+  height: 40px;
+}
+
+.submit-button1 {
+  width: 25vw;
+  color: white;
+  background-color: var(--first-color);
+  border-radius: 2vw;
+}
+
+.contact-details li {
+  display: inline;
+}
+
+.address-list {
+  list-style-type: none;
+}
+
+.address-container {
+  padding: 25px;
+  margin-right: 5px;
+  width: 90%;
+  display: inline-block;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.contact-page {
+  overflow-x: hidden;
+}
+
+.contactMap {
+  width: auto;
+  height: auto;
+}
+
+.contact-map {
+  /* padding: 20px; */
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+  /* margin-bottom: 80px; */
+}
+
+.contact-us {
+  width: 100% !important;
+  align-items: center;
+}
+
+.div-contact-title {
+  font-size: 3vh;
+  border-bottom: solid 1px var(--first-color);
+}
+
+.contact-title {
+  margin-top: 5vh !important; 
+  width: 66vw;
+  font-size: x-large;
+  text-align: left;
+}
+
+.found-us {
+  text-align: center;
+}

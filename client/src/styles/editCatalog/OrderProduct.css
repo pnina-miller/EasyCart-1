@@ -1,0 +1,95 @@
+.Shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Shadow {
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+.fontWeight {
+    font-weight: 800 !important;
+}
+
+.plusMinusStyle {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    background-color: #e0e1e1 !important;
+}
+
+.descriptionProduct {
+    line-height: 18px !important;
+}
+
+.fontDetails {
+    font-size: 0.9rem;
+}
+
+.Pwidth {
+    max-width: 85%;
+}
+
+.imgBorder {
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+
+.widthStyle {
+    width: 98%;
+}
+
+.imgCoverProduct {
+    object-fit: cover;
+    max-height: 450px !important;
+}
+
+@media screen and (max-width:720px) {
+    .imgCoverProduct {
+        max-height: 45vh !important;
+        margin-bottom: 0px !important;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .imgCoverProduct {
+        max-height: 26vh !important;
+        margin-bottom: 0px !important;
+    }
+}
+
+.imgResponsive {
+    animation-name: addingProduct;
+    z-index: 111111111;
+    position: fixed;
+    animation-duration: 1s;
+}
+
+@keyframes addingProduct {
+    1% {
+        max-height: 400px;
+        max-width: 400px;
+        top: 200px;
+        right: 400px
+    }
+    70% {
+        max-height: 50px;
+        max-width: 60px;
+        top: 100px;
+        right: 200px
+    }
+    99% {
+        max-height: 4px;
+        max-width: 4px;
+        top: 31px;
+        right: 45px
+    }
+    100% {}
+}
+
+.wrapper-backward>div>svg {
+    position: absolute;
+    cursor: pointer;
+    position: absolute;
+    cursor: pointer;
+    margin-left: -27px;
+    margin-top: 15px;
+}

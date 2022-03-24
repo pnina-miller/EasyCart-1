@@ -1,0 +1,153 @@
+
+.coming-soon-page {
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+	position: relative;
+}
+
+.coming-soon-page .container {
+	z-index: 15;
+	position: relative;
+	text-align: center;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+@media (max-width: 992px) {
+	.coming-soon-page {
+		min-height: 100vh;
+		height: auto;
+	}
+	.coming-soon-page .container {
+		padding-top: 50px;
+		padding-bottom: 50px;
+		top: auto;
+		transform: translateY(0%);
+	}
+}
+
+.coming-soon-page:before {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: 10;
+	content: "";
+	background-color: rgba(26, 26, 26, 0.92)
+}
+
+.coming-soon-page h2, .coming-soon-page h3 {
+	margin: 0;
+	padding: 0;
+}
+
+.coming-soon-page h2 {
+	font-size: 46px;
+	color: #fff;
+}
+
+.coming-soon-page h3 {
+	font-size: 34px;
+	font-weight: 300;
+	margin: 30px 0 30px 0;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.coming-soon-page .main-search-input-item input {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.coming-soon-page .gray-style.main-search-input {
+	max-width: 650px;
+	margin: 0 auto;
+}
+
+.coming-soon-page .main-search-input button.button {
+	font-size: 16px;
+}
+
+#countdown {
+	font-weight: 600;
+	float: none;
+	display: inline-block;
+}
+
+#countdown div {
+	display: inline-block;
+	margin: 0 5px;
+	float: left;
+}
+
+#countdown div:first-child i {
+	border: none;
+}
+
+#countdown span {
+	background-color: rgba(255, 255, 255, 0.1);
+	font-size: 40px;
+	color: #fff;
+	width: 120px;
+	display: inline-block;
+	padding: 32px 0;
+	font-weight: 400;
+	letter-spacing: -1px;
+	border-radius: 3px 3px 0 0;
+}
+
+#countdown i {
+	display: block;
+	font-style: normal;
+	margin: 0;
+	text-transform: uppercase;
+	font-size: 13px;
+	padding: 4px 0;
+	letter-spacing: 1px;
+	background-color: #fff;
+	color: #333;
+	border-radius: 0 0 3px 3px;
+}
+
+.countdown-text {
+	font-size: 24px;
+	margin-top: 15px;
+	line-height: 36px;
+	font-weight: 300;
+}
+
+@media (max-width: 550px) {
+	#countdown, #countdown div, #countdown span {
+		width: 100%;
+	}
+	#countdown div {
+		padding: 10px 0;
+	}
+}
+
+.btnColor {
+	border: solid 2px;
+	color: var(--third-color) !important;
+	background-color: var(--first-color) !important;
+}
+
+.focusNone:focus {
+	box-shadow: none !important;
+}
+
+.whiteColor {
+	background-color: var(--third-color);
+}
+
+.borderRadiuse {
+	border-radius: 10px !important;
+}
+
+.borderNone {
+	border: none !important;
+	background-color: transparent !important;
+}
+
+.heightSearch {
+	height: 10vh !important;
+}

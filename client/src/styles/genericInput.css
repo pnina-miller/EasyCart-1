@@ -1,0 +1,10 @@
+.generic-input-error{
+border:red 1px solid !important
+}
+.generic-input-correct{
+    border:blue 1px solid !important
+}
+.generic-input-error-note{
+    text-align: start;
+color:red
+}

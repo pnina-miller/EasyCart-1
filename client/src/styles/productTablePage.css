@@ -1,0 +1,43 @@
+ .tr-style-product th {
+    border-bottom: none !important;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    text-align: left;
+    font: normal normal bold 13px/18px Roboto;
+    letter-spacing: 0.26px;
+    color: #666666;
+    text-transform: uppercase;
+    opacity: 0.9;
+    border-top: 1px solid white !important;
+
+  }
+  
+  .tr-style-product td {
+    border-top: none !important;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+   
+} 
+.tbl-product{
+    background-color:#F8F8F8;
+}
+.underline-product{
+    background-color: var(--first-color);
+    width: 88% !important;
+}
+.tbody-product td{
+    text-align: left;
+    font: normal normal medium 18px/24px Roboto;
+    letter-spacing: 0px;
+    color: #555555;
+    opacity: 0.9;
+    border-top: none !important;
+}
+.img-product{
+    width: 8vw;
+    height: 8vh;
+}
+.tr-style-product th{
+   border-bottom: 2px solid white !important;
+
+}

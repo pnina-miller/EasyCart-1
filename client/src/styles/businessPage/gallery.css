@@ -1,0 +1,78 @@
+.subheading.image {
+    width: 100%;
+    border-radius: 5%;
+    object-fit: cover;
+    height: 30vh;
+}
+
+.image:hover {
+    opacity: 0.5;
+}
+
+.paddingImg {
+    padding-left: none !important;
+    padding-right: none !important;
+    padding: 7px !important;
+}
+
+#responsive {
+    display: flex;
+    list-style: none;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.galery-button {
+    background: #fff;
+    border: 1px solid rgb(112, 112, 112);
+    border-radius: 2px;
+    padding: 7px 20px;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 17px;
+    font-weight: 250;
+}
+
+.galery-button:active {
+    border: 0.5px solid var(--first-color);
+}
+
+.staticHeight {
+    height: 81vh !important;
+    min-height: 81vh !important;
+}
+
+.modal-content {
+    overflow: auto;
+    /* overflow: hidden !important */
+}
+
+.modalSize {
+    min-height: 90vh !important;
+    max-height: 90vh !important;
+    min-width: 98vw !important;
+    max-width: 98vw !important;
+    display: flex;
+    align-items: center;
+}
+
+.clsBtn {
+    font-size: medium !important;
+    width: 10vw !important;
+    height: 6vh !important;
+    background: linear-gradient(to left, var(--green) 0%, var(--blue) 100%) !important;
+}
+
+@media (max-width: 1000px) {
+    .modalSize {
+        margin-top: 40px !important;
+    }
+}
+
+@media (max-width: 400px) {
+    .modalSize {
+        margin-top: 70px !important;
+    }
+}

@@ -1,0 +1,125 @@
+.first-search-card {
+  margin-left: 5px;
+  width: 100%;
+  height: 250px;
+  margin:2px;
+}
+
+.first-search-card-img {
+  height: 78%;
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+}
+
+.first-search-card:hover .first-search-card-body {
+  height: 150px;
+}
+
+.first-search-card:hover .first-search-detailes {
+  opacity: 1;
+  /* margin-top: 10px; */
+}
+
+.first-search-card-body {
+  text-align: left !important;
+  padding: 0px !important;
+  font-size: smaller !important;
+  position: absolute;
+  background-color: var(--white);
+  bottom: 0;
+  left: 0px;
+  width: 100%;
+  overflow: hidden;
+  height: 110px;
+  transition: height 0.3s;
+  display: flex;
+  flex: column;
+}
+
+.first-search-detailes {
+  display: flex;
+  align-items: center;
+  margin: 0px !important;
+  padding: 0px !important;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.5s;
+  direction: ltr;
+  color: #8c98a8;
+}
+
+.ProductCard-business {
+  background: var(--white) 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 1;
+  margin: 10px;
+  /* width: 30% !important; */
+  min-width: 185px !important;
+  max-width: 250px;
+  border: none !important;
+  height: 157px !important;
+  box-shadow: 0px 3px 13px #0000000f;
+  padding: 0px !important;
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+  position: relative;
+  margin-right: 2vw !important;
+  margin-left: 2vw !important;
+  cursor: inherit;
+}
+
+.first-search-card-body .card-text hr.solid {
+  border-top: 1px solid #e4e4e5 !important;
+  width: 100% !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0px !important;
+}
+
+.first-search-card-body hr {
+  margin-bottom: 0px !important;
+  margin-top: 0px !important;
+}
+
+.description-and-price-wrapper {
+  padding-top: 5px !important;
+  position: absolute;
+  background-color: var(--white);
+  bottom: 0;
+  left: 0px;
+  width: 100%;
+  overflow: hidden;
+  height: 40px;
+  transition: height 0.3s;
+  /* display: none; */
+}
+.first-search-name-title {
+  height: 100%;
+  width: 100%;
+}
+
+.fontsNameSearch {
+  font-size: small !important;
+  line-height: 1.1;
+  margin-bottom: 2px !important;
+  margin: 5px;
+}
+
+.first-search-card-body .first-search-detailes {
+  direction: ltr;
+  color: #8c98a8;
+  /* padding: 20px; */
+  /* padding-top: 5px; */
+  /* padding-bottom: 3px; */
+}
+
+.first-search-detailes .time-text {
+  margin-left: 6px;
+  margin-top: none !important;
+  margin-bottom: none !important;
+}
+
+.first-search-detailes p {
+  font-size: small;
+  margin-bottom: 0.75rem !important;
+  margin-top: -10px !important;
+}

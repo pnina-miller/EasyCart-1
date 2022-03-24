@@ -1,0 +1,94 @@
+body{
+  overflow-x: hidden;
+}
+
+:root {
+  --gray-background: #E1DEDE !important;
+  --light-green: #fcfff4 !important;
+  --blue: #22c5bb !important;
+  --yellow: #f8db47 !important;
+  --heading-font-family: "Roboto", sans-serif !important;
+  --body-font-family: "Robto", sans-serif !important;
+  --first-color: #F2BB27 !important;
+  --second-color: #000000 !important;
+  --third-color: white !important;
+  --grey: #F2F2F2 !important;
+  --fourth-color: #707070 !important;
+  --fifth-color: #fff1f1 !important;
+  --sixth-color: #00000029 !important;
+  --seventh-color: #F5F4F2 !important;
+  --eighthe-color: #54545400 !important;
+  --ninth-color: #FFD600 !important;
+  --tenth-color: #161616 !important;
+  --eleven-color: #F2F2F2B3 !important;
+  --twelve-color: #84697c !important;
+  --Thirteen-color: #DDDDDD !important;
+  --forteen-color: #E8EAEC !important;
+}
+
+*, ::before, ::after {
+  box-sizing: border-box;
+}
+
+.color-line {
+  height: 0.25rem;
+  background-color: var(--first-color);
+}
+
+.large-icon {
+  width: 80px !important;
+  height: 80px !important;
+}
+
+.cancelLinkStyle{
+  color: black;
+  text-decoration-line: none;
+}
+
+.cancelLinkStyle:focus {
+  color: black;
+  text-decoration-line: none ;
+}
+.medium-icon {
+  width: 60px !important;
+  height: 60px !important;
+}
+
+.small-icon {
+  width: 35px !important;
+  height: 35px !important;
+}
+
+.mini-icon {
+  width: 21px !important;
+  height: 21px !important;
+}
+
+.icon-btn {
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--fifth-color‏);
+  opacity: 0.78;
+  font-size: 1.4em;
+  transition: color 0.7s;
+}
+
+.icon-btn.icon-btn--click, .icon-btn:focus {
+  outline: none;
+  color: var(--first-color) !important;
+}
+
+.dark-mode {
+  filter: invert(1) hue-rotate(180deg)
+}
+
+.btnmul {
+  margin: 0!important;
+  margin-left: 0.3rem !important;
+  font-size: 1.4em !important;
+}
+
+.cursor-link {
+  cursor: pointer;
+}

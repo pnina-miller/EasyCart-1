@@ -1,0 +1,146 @@
+.addBusinessCol {
+    margin-top: 6vh;
+    box-shadow: 0 4px 10px 0px rgb(46 59 125 / 23%);
+    color: var( --twelve-color);
+    border-radius: 0.1rem;
+    background: transparent var(--third-color) 0% 0% no-repeat padding-box;
+}
+.opening-hours-col {
+    margin-top: 1vh;
+    box-shadow: 0 4px 10px 0px rgb(46 59 125 / 23%);
+    color: var( --twelve-color);
+    border-radius: 0.1rem;
+    background: transparent var(--third-color) 0% 0% no-repeat padding-box;
+}
+
+.underlineAddBusiness {
+    background-color: var(--first-color);
+}
+
+.addBusinessCol:hover {
+    box-shadow: 0 0 3px var(--first-color);
+}
+
+.select-details {
+    width: 100% !important;
+}
+
+
+.categoryStyle {
+        border: none !important;
+        background-color: var(--eleven-color) !important;
+        height: fit-content !important;
+        /* //touch */
+        /* height: 12.5vh !important; */
+        min-height: 47px;
+        margin: 0vh !important;
+}
+
+.categoryStyle>.css-yk16xz-control {
+    /* //touch */
+    height: fit-content !important;
+    background-color: var(--eleven-color) !important;
+}
+
+.categoryStyle>.css-yk16xz-control>.css-g1d714-ValueContainer {
+    /* //touch */
+    height: fit-content !important;
+    background-color: var(--eleven-color) !important;
+    
+    /* overflow-y: scroll; */
+}
+
+.css-g1d714-ValueContainer {
+    /* //touch */
+    /* overflow-y: scroll;
+    height: 100% !important; */
+}
+
+.textarearStyle {
+    border: none !important;
+}
+
+.list-inline-item {
+    width: fit-content;
+    height: 5vh;
+    background-color: var(--eleven-color);
+    border: solid 1px var(--eleven-color);
+    display: flex;
+    margin-top: 5vh;
+}
+
+.span-item {
+    background-color: white !important;
+    height: 100% !important;
+    align-items: center;
+    cursor: pointer;
+}
+.div-add {
+    left: -5vw;
+    top: 6.4vh;
+    fill: black !important;
+    width: 100%;
+    justify-content: flex-end;
+    display: flex;
+    top: -14vh;
+    cursor: pointer;
+}
+
+.icon-add>svg {
+    position: absolute;
+    margin-top: 6px;
+    margin-right: 6px;
+}
+
+.border-fails {
+    border: solid 1px red !important;
+}
+
+
+.title-m {
+    display: flex;
+    align-items: flex-end;
+    font-size: 4vh;
+    /* padding-left: 11%; */
+    position: fixed;
+    width: 76%;
+    margin-left: 6vh;
+    padding-left: 7vh;
+    /* overflow: scroll; */
+    z-index: 12;
+    height: 11vh !important;
+    background-color: white;
+}
+.col-top{
+    top: 5.9vh;
+}
+
+@media screen and (max-width:1125px) {
+    .title-m{
+     width:63%;
+
+    }
+}
+/* @media screen and (min-width:833px) {
+    .title-m{
+     width:67%;
+
+    }
+} */
+.details-sizing{
+    /* height: 67vh; */
+    background-color: white;
+    margin-top: 1rem;
+}
+.title-border{
+    /* padding-top: 2vh;; */
+    width: 100%;
+}
+.hr-title{
+    border-bottom: solid 1px var(--grey);
+
+}
+.sizing-basic{
+    height: 79vh;
+}
+

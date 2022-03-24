@@ -1,0 +1,48 @@
+.crop-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 80px;
+  height: 60% !important;
+  width: 60% !important;
+}
+
+.reactEasyCrop_Container {
+  text-align: center !important;
+}
+
+.MuiSlider-root {
+  text-align: center;
+  justify-content: center;
+}
+
+.inputFile {
+  margin-top: auto !important;
+}
+
+.typograph-div {
+  margin-bottom: 15% !important;
+  color: black !important;
+  background-color: #f2f2f2b3;
+}
+
+.MuiSlider-root {
+  color: black !important;
+}
+
+.MuiButton-containedPrimary {
+  background-color: black !important;
+}
+
+.uploadWrapper {
+  cursor: pointer;
+}
+
+.uploadWrapper>svg {
+  height: 28px;
+  width: 28px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+  fill: black !important;
+}

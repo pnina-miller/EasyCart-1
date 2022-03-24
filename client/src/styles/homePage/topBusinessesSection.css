@@ -1,0 +1,382 @@
+/* .wrapper-section-topBusiness {
+  background-color: var(--seventh-color);
+  opacity: 1;
+}
+.row-wrapper-topBuisness {
+  justify-content: center;
+}
+.scroll-topBuisness {
+  height: 600px !important;
+  width: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.carousol-wrapper {
+  width: 80% !important;
+}
+.carousol-wrapper .carousel-control-next:hover,
+.carousol-wrapper .carousel-control-prev:hover {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
+.wrapper-section-topBusiness .container {
+  width: 80%;
+}
+.topBusiness {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.topBuisness a {
+  height: 100%;
+}
+.col-left-topBuisness .topBuisness {
+  height: 97.5% !important;
+}
+.bottom-row-topBuisness,
+.top-row-topBuisness {
+  height: 50%;
+}
+.wrapper-section-topBusiness .container,
+.row-wrapper-topBuisness {
+  height: 100%;
+}
+.col-right-topBuisness,
+.col-left-topBuisness {
+  height: 95%;
+}
+.col-left-topBuisness .img-topBuisness {
+  height: 83%;
+}
+.top-row-topBuisness .col-lg-7,
+.top-row-topBuisness .col-lg-5,
+.bottom-row-topBuisness .col-lg-5,
+.bottom-row-topBuisness .col-lg-7 {
+  height: 100%;
+}
+.topBuisness {
+  background: var(--white) 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 1;
+  margin: 10px;
+  width: 100% !important;
+  min-width: 200px !important;
+  max-width: 430px;
+  border: none !important;
+  height: 95%;
+  box-shadow: 0px 3px 13px #0000000f;
+  padding: 0px !important;
+  position: relative;
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+}
+
+.cartPanel-container {
+  margin-top: 50px;
+}
+.topBuisness:hover .description-and-price-wrapper {
+  display: inline;
+  animation: slideIn 0.5s;
+}
+
+.card-body-topBuisness {
+  padding-right: 0px !important;
+  text-align: left !important;
+  padding: 0px !important;
+}
+
+.img-topBuisness {
+  position: relative !important;
+  display: block !important;
+  object-fit: cover;
+  height: 75%;
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+}
+
+.wrapper-description-topBuisness {
+  padding: 20px;
+  padding-top: 18px;
+  padding-bottom: 15px;
+  width: 100%;
+}
+
+.title-topBuisness {
+  font: normal normal 900 22px/18px Roboto;
+  letter-spacing: 0.31px;
+  color: var(--second-color);
+  text-transform: capitalize;
+  opacity: 1;
+  font-size: small !important;
+  line-height: 1.1;
+  margin-bottom: 2px !important;
+  font-weight: 700 !important;
+}
+
+.p-topBuisness {
+  font: normal normal normal 18px/16px Roboto;
+  letter-spacing: 0.22px;
+  color: var(--second-color);
+  opacity: 1;
+  font-size: smaller !important;
+}
+.add-btn-topBuisness {
+  background-color: var(--fifth-color);
+  width: 120px;
+  height: 32px;
+  padding-top: 3px;
+  font-weight: 500;
+  margin-top: 5px;
+}
+.add-btn-topBuisness:focus {
+  outline: none;
+  box-shadow: none;
+}
+.description-and-price-wrapper {
+  position: absolute;
+  background-color: var(--white);
+  bottom: 0;
+  left: 0px;
+  width: 100%;
+  /* display: none; 
+}
+.description-and-price-wrapper .wrapper-description-topBuisness {
+  padding-bottom: 0px;
+  padding-top: 25px;
+}
+
+.card-body-topBuisness .time-wrapper {
+  direction: ltr;
+  color: #8c98a8;
+  padding: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.card-body-topBuisness .time-wrapper p {
+  font-size: small;
+  margin-bottom: 0px !important;
+}
+.time-wrapper .time-text {
+  margin-left: 6px;
+  margin-top: none !important;
+  margin-bottom: none !important;
+}
+.price-topBuisness {
+  font-size: small !important;
+  font-weight: 650 !important;
+  text-align: right !important;
+  letter-spacing: 0.44px !important;
+  color: var(--second-color) !important;
+  font: normal normal bold 19px/22px Roboto !important;
+}
+.wrapper-time-delivery {
+  width: max-content;
+}
+.wrapper-price-topBuisness {
+  width: max-content;
+}
+.price-char-topBuisness {
+  text-align: left !important;
+  font: normal normal bold 20px/27px Roboto !important;
+  letter-spacing: 0px !important;
+  color: var(--brown) !important;
+  margin-right: 5px;
+}
+.card-body-topBuisness .card-text hr.solid {
+  border-top: 1px solid #e4e4e5 !important;
+  width: 100% !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0px !important;
+}
+.card-body-topBuisness hr {
+  margin-bottom: 0px !important;
+  margin-top: 0px !important;
+}
+.heart-icon-style {
+  position: absolute;
+  margin-left: 2vw;
+  z-index: 1;
+  margin-top: 2vh;
+}
+.heart-icon-style:hover {
+  opacity: 1 !important;
+}
+
+.favorite-icon:hover {
+  fill: #f2bb27 !important;
+}
+.heart-icon-style{
+  cursor: pointer !important;
+}
+
+@media only screen and (max-width: 1050px) {
+  .title-topBuisness {
+    font: normal normal 900 21px/18px Roboto;
+    direction: ltr;
+    color: #8c98a8;
+    padding: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  .card-body-topBuisness .time-wrapper p {
+    font-size: small;
+    margin-bottom: 0px !important;
+  }
+  .time-wrapper .time-text {
+    margin-left: 6px;
+    margin-top: none !important;
+    margin-bottom: none !important;
+  }
+  .price-topBuisness {
+    font-size: small !important;
+    font-weight: 650 !important;
+    text-align: right !important;
+    letter-spacing: 0.44px !important;
+    color: var(--second-color) !important;
+    font: normal normal bold 19px/22px Roboto !important;
+  }
+  .wrapper-time-delivery {
+    width: max-content;
+  }
+  .wrapper-price-topBuisness {
+    width: max-content;
+  }
+  .price-char-topBuisness {
+    text-align: left !important;
+    font: normal normal bold 20px/27px Roboto !important;
+    letter-spacing: 0px !important;
+    color: var(--brown) !important;
+    margin-right: 5px;
+  }
+  .card-body-topBuisness .card-text hr.solid {
+    border-top: 1px solid #e4e4e5 !important;
+    width: 100% !important;
+    margin-top: 2rem !important;
+    margin-bottom: 0px !important;
+  }
+  .card-body-topBuisness hr {
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .title-topBuisness {
+    font: normal normal 900 21px/18px Roboto;
+  }
+
+  .p-topBuisness {
+    font: normal normal normal 16px/16px Roboto;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .top-row-topBuisness .col-lg-7,
+  .top-row-topBuisness .col-lg-5,
+  .bottom-row-topBuisness .col-lg-5,
+  .bottom-row-topBuisness .col-lg-7,
+  .col-left-topBuisness {
+    display: flex;
+    justify-content: center;
+  }
+  .wrapper-section-topBusiness .container,
+  .row-wrapper-topBuisness {
+    height: fit-content !important ;
+  }
+  .scroll-topBuisness {
+    height: 600px !important;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+}
+@media only screen and (max-width: 950px) {
+  .title-topBuisness {
+    font: normal normal 900 19px/18px Roboto;
+  }
+
+  .p-topBuisness {
+    font: normal normal normal 14px/16px Roboto;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .title-topBuisness {
+    font: normal normal 900 18px/18px Roboto;
+  }
+
+  .p-topBuisness {
+    font: normal normal normal 12px/16px Roboto;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(1rem);
+  }
+  100% {
+    transform: translateY(0rem);
+  }
+}
+
+.slideIn {
+  -webkit-animation-name: slideIn;
+  animation-name: slideIn;
+}
+
+OverlayTrigger {
+  width: fit-content;
+  height: fit-content;
+}
+
+.promotedBusinessView-img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  padding: 5px !important;
+  margin: 0px !important;
+}
+
+.promotedBusinessView-col {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.promotedBusinessView-row {
+  object-fit: cover;
+  height: 50%;
+  width: 100%;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.promotedBusinessView-container {
+  width: 100% !important;
+  padding: 0px !important;
+  margin: 50px !important;
+}
+
+.promoted-business-view-label {
+  margin: 5px;
+  width: fit-content;
+  display: flex;
+  align-items:center;
+}
+
+@media (max-width: 426px) {
+  .showCarousel {
+    display: block;
+  }
+  .topBuisness {
+    margin: auto;
+    width: 91% !important;
+  }
+  .showComponent {
+    display: none;
+  }
+}
+@media (min-width: 426px) {
+  .showCarousel {
+    display: none;
+  }
+  .showComponent {
+    display: block;
+  }
+} */

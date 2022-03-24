@@ -1,0 +1,30 @@
+.badge{
+    border-radius: 8px;
+    padding: 4px 8px;
+    text-transform: uppercase;
+    font-size: xx-small;
+    line-height: 12px;
+    background-color: transparent;
+    border: none;
+    margin-bottom: 5px;
+    color: white;
+    // border-radius: $border-radius-extreme;
+  
+    &:hover,
+    &:focus{
+      text-decoration: none;
+    }
+  
+  }
+  
+  
+  .dnd-badge{
+    left: 29px;
+    top: 18px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    background-color: rgb(252, 137, 77);
+    min-width: 18px !important;
+    font-size: 20px;
+  }

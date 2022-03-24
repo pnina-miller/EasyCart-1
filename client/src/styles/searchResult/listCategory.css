@@ -1,0 +1,244 @@
+.container-catalog {
+    width: 100% !important;
+    max-width: 100% !important;
+    background-color: var(--fifth-color) !important;
+}
+
+.wrapper-left-header-catalog {
+    justify-content: space-between;
+}
+
+.deco {
+    text-decoration: none;
+}
+
+.deco:hover {
+    text-decoration: none;
+}
+
+
+
+.card-catalog {
+    background: var(--third-color) 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+    margin-bottom: 25px;
+}
+
+.card-body-catalog {
+    padding-right: 0px !important;
+    text-align: left !important;
+}
+
+.card {
+    border: none !important;
+}
+
+.card-text:last-child {
+    margin-bottom: none !important;
+}
+
+.img-catalog {
+    padding-top: 15px !important;
+    position: relative !important;
+    display: block !important;
+}
+
+.icon-favorite {
+    position: absolute !important;
+}
+
+.p {
+    margin-bottom: 0rem !important;
+}
+
+.time-wrapper p {
+    font-size: small;
+    margin-bottom: 0.75rem !important;
+    margin-top: -10px !important;
+}
+
+.time {
+    margin-top: none !important;
+}
+
+.card-text {
+    padding-top: 8px !important;
+    margin-top: none !important;
+}
+
+.p-catalog {
+    text-align: left !important;
+    letter-spacing: 0.17px !important;
+    color: var(--second-color) !important;
+    font-size: small !important;
+    font-style: normal;
+    font-weight: none !important;
+}
+
+.solid .active {
+    background: var(--second-color) !important;
+}
+
+.cardBody {
+    background-color: var(--third-color) !important;
+    padding: 0px !important;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 var(--second-color), 0 6px 20px var(--second-color);
+}
+
+.containerBG {
+    background-color: var(--third-color) !important;
+}
+
+.card-img-wrap {
+    overflow: hidden;
+    position: relative;
+}
+
+.card-img-wrap img {
+    transition: transform .25s;
+    padding-top: 15px !important;
+}
+
+.card-img-wrap:hover img {
+    transform: scale(1.2);
+    padding-top: 15px !important;
+}
+
+.size-img {
+    width: 100%;
+    height: 25vh;
+}
+
+.buttonBG {
+    border-color: var(--green-blue) !important;
+    color: var(--green-blue) !important;
+    padding-left: 60px !important;
+    padding-right: 60px !important;
+    border-radius: 8px !important;
+}
+
+.m-card {
+    margin-bottom: 15vh;
+}
+
+.buttonBG:hover {
+    background: linear-gradient(to left, var(--green) 0%, var(--blue) 100%)!important;
+    color: var(--third-color) !important;
+}
+
+.buttonBG:focus {
+    box-shadow: none !important;
+}
+
+.hoverColor:hover {
+    fill: var(--green-blue) !important
+}
+
+.more-Results {
+    background-color: var(--first-color);
+    border-radius: 7px;
+    width: 20%;
+    color: var(--third-color) !important;
+    font-size: x-small;
+    height: 23%;
+    border: none !important
+}
+
+.more-Results:focus {
+    background-color: var(--first-color) !important;
+    box-shadow: none !important;
+}
+
+.more-Results:hover {
+    background-color: var(--first-color) !important;
+    border: none !important
+}
+
+.btn-trash {
+    background-color: white !important;
+    border-color: white !important;
+}
+
+.courser-btn {
+    cursor: pointer
+}
+
+.color-trash>svg {
+    fill: var(--first-color) !important;
+}
+
+.p-product-search>svg {
+    fill: var(--first-color) !important;
+}
+
+.fillReview>svg {
+    fill: #F2BB27 !important;
+}
+
+.bacgroundContainer {
+    background-color: #f2f2f2;
+}
+
+/* .underlineBusiness {
+    background-color: var(--first-color);
+} */
+
+.styleBussines {
+    background-color: var(--third-color) !important;
+    margin-top: 13vh !important;
+}
+
+.margin-location-search {
+    margin-top: 13vh;
+}
+
+.business-row-wrapper {
+    width: 90%
+}
+
+.img-add-business {
+    width: 100%;
+    box-shadow: none !important;
+}
+
+
+.warpper-icons>svg {
+    fill: var(--twelve-color);
+}
+
+.size-icons>svg {
+    height: 17px !important;
+}
+
+.wrapper-padding {
+    padding: inherit !important;
+}
+
+.buttons-to-right {
+    z-index: 5;
+}
+
+/* @media screen and (min-width:1180px) and(max-width:992px) { */
+    /* .ProductCard-business {
+        margin: 69vw !important;
+        border: solid 30px yellow !important;
+    }
+} */
+
+.deleveryIcon>svg {
+    padding-top: 2px;
+}
+
+.text-p {
+    text-align: 'center';
+}
+
+.skelaton-size {
+    margin: 10px;
+    width: 30%;
+    height: 200px;
+}

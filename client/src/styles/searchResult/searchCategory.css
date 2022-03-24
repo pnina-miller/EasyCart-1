@@ -1,0 +1,39 @@
+.searchResultInput {
+    background-color: var(--eleven-color);
+    border: none;
+    border-radius: 7px;
+    width: 20vw;
+    height: 6vh;
+}
+
+.searchResultInput:focus {
+    background-color: var(--eleven-color);
+    color: black !important;
+}
+
+.focusCancelSerch {
+    color: black !important;
+}
+
+.focusCancelSearch:focus {
+    background-color: var(--eleven-color)!important;
+}
+
+.focusCancelSearch:hover {
+    background-color: var(--eleven-color)!important;
+    color: black !important;
+}
+
+.borderNoneSearch {
+    border: none !important;
+    background-color: var(--eleven-color)!important;
+}
+
+.serchSectionShadow {
+    width: 100%;
+}
+
+.widthInput {
+    width: 50vw !important;
+    min-width: 513px;
+}

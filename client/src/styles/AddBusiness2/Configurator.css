@@ -1,0 +1,211 @@
+.div-configurator {
+    height: 100vh;
+}
+
+.col-details {
+    z-index: 3;
+    background-color: white;
+    margin-top: 13vh !important;
+    height: 17vh;
+    width: 100%;
+    z-index: 5;
+}
+
+.button-details {
+    cursor: pointer;
+    border-color: black !important;
+    border-width: 1px;
+    width: 9vh !important;
+    height: 9vh;
+    background-color: white !important;
+    color: black;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding: 0%;
+}
+
+.button-details:focus {
+    border: solid 2px var(--first-color) !important;
+    box-shadow: none !important;
+    color: var(--first-color) !important;
+}
+
+/* .button-details {
+    border-color: black!important;
+    border-width: 1px;
+    width: 9vh !important;
+    height: 9vh;
+    background-color: white !important;
+    color: black;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding: 0%;
+    z-index: 5;
+    box-shadow: 0 0 10px rgb(46 59 125 / 23%) !important;
+} */
+
+.button-details:focus {
+    border: solid 3px var(--first-color) !important;
+    box-shadow: 0 0 10px rgb(46 59 125 / 23%) !important;
+    color: var(--first-color) !important;
+}
+
+.button-details-checked {
+    cursor: pointer;
+    /* border-color: var(--first-color) !important; */
+    border-width: 1px;
+    width: 9vh !important;
+    height: 9vh;
+    background-color: white !important;
+    color: black;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding: 0%;
+    border: solid 3px var(--first-color) !important;
+    box-shadow: 0 0 10px rgb(46 59 125 / 23%) !important;
+    color: var(--first-color) !important;
+    z-index: 5;
+}
+
+.button-details:hover {
+    color: gold !important;
+}
+
+.input-business {
+    background-color: #1a1a1a !important;
+    border: none;
+    color: white !important;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: fit-content;
+}
+
+.auto-business {
+    background-color: #1a1a1a !important;
+    border: none;
+    color: white !important;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    width: 100%;
+    height: 5vh;
+    border-radius: 0% !important;
+}
+
+.input-business:focus-visible {
+    outline: none;
+}
+
+.input-description {
+    height: 25vh;
+    width: 100%;
+}
+
+.com {
+    height: 100vh;
+    background-color: var(--forteen-color);
+    z-index: 4;
+}
+
+.div-edit {
+    background-color: white;
+}
+
+.hr-color {
+    background-color: black;
+}
+
+.hrSteps {
+    position: absolute;
+    width: 33%;
+    margin-left: 1vw;
+    background-color: var(--second-color) !important;
+    z-index: 4
+}
+
+.wrapperSteps {
+    z-index: 5;
+    margin-top: 2vh;
+}
+
+.wrapperSteps-xs {
+    z-index: 5;
+    margin-top: 6vh;
+    margin-left: 1% !important;
+}
+
+.divWrapper {
+    display: flex;
+    width: 38%;
+    justify-content: space-between;
+}
+
+
+.button-details-xs {
+    border-color:black !important;
+    border-width: 1px;
+    width: 7vh !important;
+    height: 7vh;
+    background-color: white !important;
+    color: black;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding: 0%;
+    z-index: 5;
+    box-shadow: 0 0 10px rgb(46 59 125 / 23%) !important;
+}
+
+/* .button-details-xs:focus {
+    border: solid 2px var(--first-color) !important;
+    box-shadow: none !important;
+    color: var(--first-color) !important;
+} */
+
+
+.button-details-xs:focus {
+    border: solid 3px var(--first-color) !important;
+    box-shadow: 0 0 10px rgb(46 59 125 / 23%) !important;
+    color: var(--first-color) !important;
+}
+
+.button-details-checked-xs {
+    border-color: var(--first-color) !important;
+    border-width: 1px;
+    width: 7vh !important;
+    height: 7vh;
+    background-color: white !important;
+    color: black;
+    margin-right: 3%;
+    margin-left: 3%;
+    padding: 0%;
+    border: solid 3px var(--first-color) !important;
+    box-shadow: 0 0 10px rgb(46 59 125 / 23%) !important;
+    color: var(--first-color) !important;
+    z-index: 5;
+}
+
+.button-details-xs:hover {
+    color: gold !important;
+}
+
+.font-xs {
+    font-size: xx-small;
+}
+
+.button-details-xs>svg {
+    height: 5vh;
+    width: 5vw
+}
+
+.button-details-checked-xs>svg {
+    height: 5vh;
+    width: 5vw
+}
+.eysCss{
+    cursor: pointer !important;
+    margin-top: -15vh;
+    z-index: 8;
+    
+}
+.bg-button{
+    background-color: white;
+}

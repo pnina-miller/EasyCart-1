@@ -1,0 +1,205 @@
+.pricing-section {
+  color: var(--first-color);
+  min-height: 100vh;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+  margin-top: 77px;
+}
+
+.pricing {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  width: 100%;
+  margin: 3rem auto 3rem;
+}
+
+.title-payment {
+  margin-top: 30px;
+  color: black;
+  text-align: center;
+}
+
+.title-pricing {
+  margin-top: 13vh;
+}
+
+.div-title-pricing {
+  z-index: 22;
+  background-color: white;
+  width: 70%;
+  text-align: left;
+  height: 50px;
+  border-bottom: solid 2px var(--first-color);
+}
+
+.pricing-item {
+  background-color: var(--third-color)!important;
+  position: relative;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: stretch;
+  align-items: stretch;
+  text-align: center;
+  -webkit-flex: 0 1 330px;
+  flex: 0 1 330px;
+}
+
+.pricing-action {
+  width: 70%;
+}
+
+.pricing-action:focus, .pricing-action:hover {
+  outline: none;
+}
+
+.pricing-feature-list {
+  text-align: left;
+}
+
+.pricing-palden .pricing-item {
+  cursor: default;
+  color: #84697c;
+  background: transparent var(--third-color) 0% 0% no-repeat padding-box;
+  box-shadow: 0 0 10px rgba(46, 59, 125, 0.23);
+  border-radius: 0.1rem;
+  margin: 1em;
+  margin-top: 3rem;
+  align-items: center;
+}
+
+.pricing-palden .pricing-item:hover {
+  box-shadow: 0 0 10px var(--first-color);
+}
+
+.pricing-item:first-child, .pricing-item:last-child {
+  background: white !important;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (min-width: 66.25em) {
+  .pricing-palden .pricing-item {
+    margin: 1em -0.5em;
+  }
+  .pricing-palden .pricing__item--featured {
+    align-items: center;
+    margin: 0;
+    z-index: 10;
+    box-shadow: 0 0 20px rgba(46, 59, 125, 0.23);
+  }
+}
+
+.pricing-palden .pricing-deco {
+  padding: 2em 0 1em;
+  position: relative;
+}
+
+.pricing-palden .pricing-title {
+  font-size: 1.5em;
+  margin-top: 1em;
+  color: var(--second-color);
+  font-weight: bold;
+}
+
+.pricing-palden .deco-layer {
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  align-items: center;
+  justify-content: center;
+}
+
+.pricing-palden .pricing-item:hover .deco-layer--1 {
+  -webkit-transform: translate3d(15px, 0, 0);
+  transform: translate3d(15px, 0, 0);
+}
+
+.pricing-palden .pricing-item:hover .deco-layer--2 {
+  -webkit-transform: translate3d(-15px, 0, 0);
+  transform: translate3d(-15px, 0, 0);
+}
+
+.pricing-palden .icon {
+  font-size: 2.5em;
+}
+
+.pricing-palden .pricing-price {
+  font-size: 2.5em;
+  padding: 0;
+  color: var(--tenth-color);
+  font-weight: bold;
+  line-height: 2;
+}
+
+.pricing-circle {
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 125px !important;
+  background: transparent var(--third-color) 0% 0% no-repeat padding-box;
+}
+
+.light {
+  background: var(--third-color) !important;
+  color: #84697c !important;
+}
+
+.pricing-palden .pricing-currency {
+  font-size: 0.15em;
+  vertical-align: top;
+}
+
+.pricing-palden .pricing-period {
+  font-size: 0.35em;
+}
+
+.pricing-palden .pricing__sentence {
+  font-weight: bold;
+  margin: 0 0 1em 0;
+  padding: 0 0 0.5em;
+}
+
+.pricing-palden .pricing-feature-list {
+  margin: 0;
+  padding: 0.25em 0 2.5em;
+  list-style: none;
+}
+
+.pricing-palden .pricing-feature {
+  padding: 1em 0;
+}
+
+.pricing-palden .pricing-action {
+  font-weight: bold;
+  margin: auto 3em 2em 3em;
+  padding: 1em 2em;
+  color: var(--third-color);
+  border-radius: 30px;
+  background: transparent var(--third-color) 0% 0% no-repeat padding-box;
+  -webkit-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+
+.pricing-palden .pricing-item--featured .pricing-deco {
+  padding: 5em 0 8.885em 0;
+}
+
+.btn-pricing {
+  width: 75%;
+  margin-bottom: 3rem;
+}
+
+.btn-color {
+  border: var(--first-color) !important;
+  background-color: var(--first-color) !important;
+  color: var(--third-color) !important;
+}
+
+.minHeightPricung {
+  min-height: 497 !important
+}

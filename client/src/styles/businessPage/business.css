@@ -1,0 +1,247 @@
+.listing-links li a {
+    background: #f2f2f2;
+    color: #555;
+    font-weight: 500;
+    font-size: 13px;
+    padding: 7px 14px;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 17px;
+    font-weight: 500;
+    position: relative;
+}
+
+.listing-links li:last-child a {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.listing-links li a.listing-links-tt {
+    color: #fff;
+    background: #1da1f2;
+}
+
+a, button {
+    outline: none !important;
+}
+
+.listing-links li {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+.listing-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.business-title {
+    font-size: 28px;
+    line-height: 36px;
+    margin: 1px 0;
+}
+
+.business-title {
+    font-size: 32px;
+    line-height: 40px;
+    margin: 1px 0 3px 0;
+}
+
+.boxed-widget {
+    background-color: #f9f9f9;
+    border-radius: 3px;
+    padding: 32px;
+    transform: translate3d(0, 0, 0);
+    z-index: 90;
+    position: relative;
+    width: 23vw;
+    height: 55vh;
+}
+
+.opening-hours {
+    position: relative;
+    overflow: hidden;
+}
+
+.margin-top-35 {
+    margin-top: 35px !important;
+}
+
+.listing-badge {
+    background-color: #f91942;
+    float: left;
+    position: absolute;
+    transform: rotate( 45deg);
+    right: -64px;
+    top: 22px;
+    text-align: center;
+    width: 200px;
+    font-size: medium;
+    margin: 0;
+    z-index: 999;
+    color: #fff;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.listing-badge.now-open {
+    background-color: #54ba1d;
+}
+
+.boxed-widget {
+    font-size: 15px;
+    padding: 0 0 25px;
+    margin: 0 0 25px 0;
+    display: block;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.boxed {
+    font-size: 20px;
+    padding: 0 0 25px;
+    margin: 0 0 25px 0;
+    display: block;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.listing-features {
+    width: 100%;
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    columns: 3;
+    font-size: 16px;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
+
+.checkboxes {
+    list-style: none;
+    padding: 0;
+}
+
+
+.checkboxes {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    padding-left: 28px;
+    margin-right: 20px;
+    margin-bottom: 0;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+.listing-links a.listing-links-fb {
+    color: #fff;
+    background: #3b5998;
+}
+
+.listing-links a.listing-links-yt {
+    color: #fff;
+    background: #f00125;
+}
+
+.listing-links a.listing-links-ig {
+    color: #fff;
+    background: #e1306c;
+}
+
+.listing-links a.listing-links-tt {
+    color: #fff;
+    background: #1da1f2;
+}
+
+.checkboxes {
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    padding-left: 28px;
+    margin-right: 20px;
+    margin-bottom: 0;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+.listing-features {
+    width: 100%;
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    columns: 3;
+    font-size: 16px;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px !important;
+}
+
+.margin-top-40 {
+    margin-top: 40px !important;
+}
+
+.listing-share {
+    text-align: center;
+    position: relative;
+}
+
+.share-buttons a.gplus-share {
+    border-color: #dd4b39;
+    color: #dd4b39;
+}
+
+.share-buttons a.twitter-share {
+    border-color: #1da1f2;
+    color: #1da1f2;
+}
+
+.share-buttons a.fb-share {
+    border-color: #3b5998;
+    color: #3b5998;
+}
+
+.share-buttons li a {
+    background: #fff;
+    border: 1px solid #666;
+    border-radius: 50px;
+    font-weight: 500;
+    font-size: 13px;
+    padding: 7px 20px;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 17px;
+    font-weight: 500;
+}
+
+.listing-share {
+    display: block;
+    font-size: 15px;
+    color: #888;
+}
+
+.like-button {
+    outline: none;
+    border: none;
+    color: #444;
+    font-weight: 600;
+    font-size: 14px;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 50px;
+    padding: 10px 25px;
+    line-height: 24px;
+    margin-bottom: 9px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+

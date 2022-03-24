@@ -1,0 +1,340 @@
+{
+  "language": "he",
+  "header": {
+    "link-1": "ראשי",
+    "link-2": "קטגוריות",
+    "link-3": "פרסם חינם",
+    "link-4": "הרשמה",
+    "link-5": "שפה",
+    "link-6": "כניסה",
+    "login": "התחברות"
+  },
+  "signin": {
+    "signin": "כניסה",
+    "signup": "הרשמה",
+    "password": "סיסמא",
+    "user-name": "שם משתמש",
+    "forgot-password": "שכחת סיסמא?",
+    "confirm-password": "אימות סיסמא",
+    "existing-account": "כבר יש לך חשבון?",
+    "need-account": "צריכים חשבון?",
+    "hi": "היי",
+    "update-profile": "עדכון פרופיל",
+    "user-profile": "הפרופיל שלי",
+    "signout": "התנתקות"
+  },
+  "footer": {
+    "paragraph": "הורידו את אפליקציית EasyCart! בקרוב לAndroid וiOS",
+    "category-title": "קטגוריות פופלריות",
+    "category-1": "אוכל",
+    "category-2": "קניות",
+    "category-3": "בעלי מקצוע",
+    "category-4": "רפואה",
+    "category-5": "חופשה",
+    "links": "לינקים",
+    "link-1": "אודותנו",
+    "link-2": "איך זה עובד",
+    "link-3": "צרו קשר",
+    "link-4": "מחירים",
+    "link-5": "בלוג",
+    "support-title": "תמיכה",
+    "support-1": "פורום תמיכה",
+    "support-2": "תנאים ופרטיות",
+    "support-3": "מדיניות",
+    "support-4": "שאלות נפוצות",
+    "copyrights": "© 2021 EasyCart כל הזכויות שמורות."
+  },
+  "pricing": {
+    "title": "החבילות שלנו",
+    "basic": "בסיסי",
+    "extended": "מורחב",
+    "professional": "מקצועי",
+    "free": "0",
+    "extended-price": "29",
+    "professional-price": "99",
+    "button": "התחלה",
+    "featured": "מומלץ",
+    "basic-terms": "ללא תשלום רישום סטנדרטי אחד פעיל תמיד",
+    "extended-terms": "תשלום חד פעמי עבור רישום אחד, מודגש בתוצאות החיפוש",
+    "professional-terms": "מנוי חודשי לרשימות בלתי מוגבלות וזמינות לכל החיים",
+    "basic-d-1": "רישום אחד",
+    "basic-d-2": "מקודם בעיר אחת",
+    "basic-d-3": "תמיכה מוגבלת",
+    "extended-d-1": "רישום אחד",
+    "extended-d-2": "מוצג בתוצאות חיפוש",
+    "extended-d-3": "תמיכה 24/7",
+    "professional-d-1": "רישומים ללא הגבלה",
+    "professional-d-2": "מוצג בתוצאות חיפוש",
+    "professional-d-3": "תמיכה 24/7"
+  },
+  "comming-soon": {
+    "title": "אנחנו משיקים את הפיצ'ר הזה בקרוב:)",
+    "days": "ימים",
+    "hours": "שעות",
+    "minutes": "דקות",
+    "seconds": "שניות",
+    "notify-me": "עדכנו אותי",
+    "email-placeholder": "כתובת המייל שלך"
+  },
+  "about": {
+    "seo-title": "About | Easycart",
+    "seo-description": "EasyCart is A local search engine for finding points of interest, businesses, events and a huge variety of search areas. The data is collected from all over the web and by EasyCart users on a daily basis, automatically. The algorithm of the site and the information within it are regularly updated.",
+    "about-title": "About",
+    "about-general": "EasyCart is A local search engine for finding points of interest, businesses, events and a huge variety of search areas. The data is collected from all over the web and by EasyCart users on a daily basis, automatically. The algorithm of the site and the information within it are regularly updated."
+  },
+  "terms": {
+    "seo-title": "Terms and Conditions | Easycart",
+    "seo-description": "Terms and Conditions"
+  },
+  "help": "עזרה",
+  "settings": "הגדרות",
+  "info": "איך זה עובד",
+  "policy-privacy": "מדיניות ופרטיות",
+  "mydashboard": "לאיזור האישי",
+  "favorites": "מועדפים",
+  "location": "מיקום",
+  "search": "חפש",
+  "my-account": "החשבון שלי",
+  "ownership": "תפוס בעלות על עסק",
+  "prices": "מחירים",
+  "adress": "בר כוכבא 4 קומה 6",
+  "phone": "טלפון",
+  "email": "אמייל",
+  "now-open": "פתוח עכשיו",
+  "post-for-free": "פרסם חינם",
+  "info-section": {
+    "title": "תכנן את חופשת חלומותיך",
+    "subtitle-1": "גלה כמה מהטיפים הטובים ביותר מרחבי העולם מצד השותפים והחברים שלנו.",
+    "subtitle-2": "גלה כמה מהרשומות הפופולריות ביותר!",
+    "info-d-1": "מצא מקום מעניין",
+    "info-d-2": "צרו קשר עם המומחים",
+    "info-d-3": "תפוס בעלות על עסק",
+    "info-t-1": "המידע באתר מעודכן על כל העסקים בעולם כמעט:). באזור הניהול ניתן לעדכן את פרטי העסק, להוסיף תמונות, לעדכן סיווגים, שעות פתיחה ולשפר את נראות דף העסק בXbiz.",
+    "info-t-2": "החזון שלנו הוא לעזור לאנשים ואנו משקיעים מאמצים רבים כדי לשפר אותו. אנחנו בXbiz מאמינים שאפשר לעשות טכנולוגיה שימושית שפועלת בצורה פשוטה ומועילה.",
+    "info-t-3": "יש לך עסק? כנראה שהוא כבר מופיע EasyCart! נהל את העמוד שלך וקבל גישה ללקוחות פוטנציאליים שנמצאים בסביבת העסק שלך"
+  },
+  "search-section": {
+    "typed-text-static": "מצא קרוב",
+    "subtitle": "את האטרקציות הכי שוות, עסקים ועוד",
+    "search-placeholder": "?מה לחפש",
+    "location-placeholder": "...חפש מקום",
+    "use-current-location": "השתמש במיקום הנוכחי שלי",
+    "icon-1": "סביב תל אביב",
+    "icon-2": "שינוי מקום"
+  },
+  "categories": {
+    "categories": "קטגוריות",
+    "restaurants": "מסעדות",
+    "hotels": "מלונות",
+    "events": "אירועים",
+    "sport": "ספורט"
+  },
+  "errors": {
+    "page-not-found": " אנו מצטערים, אך הדף שחיפשת אינו קיים"
+  },
+  "additional-filters": {
+    "filters": "סינונים",
+    "more-filters": "עוד סינונים",
+    "update": "עדכן"
+  },
+  "business-details": {
+    "overview": "סקירה כללית",
+    "prices": "מחירים",
+    "comments": "תגובות",
+    "add-a-comment": "הוסף תגובה",
+    "services": "שירותים",
+    "elevator": "מעלית בבנין",
+    "immediate-order": "הזמנה מיידית",
+    "free-parking": "חניה חינם במקום",
+    "smoking-is-allowed": "אפשרות לעישון",
+    "friendly-seating-area": "פינת ישיבה ידידותית",
+    "friendly-workspace": "פינת עבודה ידידותית",
+    "navigation": "ניתוב",
+    "site": "אתר",
+    "message": "שלח הודעה",
+    "events": "אירועים",
+    "all-photos": "כל התמונות וההסרטות",
+    "share": "שיתוף",
+    "save": "שמירה",
+    "take-ownership": "תפוס בעלות על עסק",
+    "reviews": "ביקורות",
+    "open": "פתוח",
+    "about": "אודות",
+    "categories": "קטגוריות",
+    "dishes": "הכלים שלנו",
+    "recommendations": "המלצות"
+  },
+  "opening-hours": {
+    "opening-hours": "שעות פתיחה",
+    "open-now": "פתוח עכשיו",
+    "close-now": "סגור עכשיו",
+    "closed-on-Saturday": "סגור בשבת",
+    "sunday": "ראשון",
+    "monday": "שני",
+    "tuesday": "שלישי",
+    "wednesday": "רביעי",
+    "thursday": "חמישי",
+    "friday": "שישי",
+    "saturday": "שבת"
+  },
+  "dashboard": {
+    "hi": "הי",
+    "my-businesses": "העסקים שלי",
+    "visited-my-businesses": "ביקרו בעסקים שלי",
+    "recommendations-my-businesses": "המלצות לעסקים שלי",
+    "favorites": "מועדפים"
+  },
+  "add-business": {
+    "basic-details": "פרטים בסיסיים",
+    "business-name": "שם עסק",
+    "enter-business-name": "חובה להכניס שם עסק",
+    "category": "קטגוריה",
+    "gallery": "גלריה"
+  },
+  "pricing-add-business": {
+    "title": "חבילות תשלום לעסק"
+  },
+  "navigator": {
+    "main": "ראשי",
+    "title2": "עסקים",
+    "my-business": "עסקים שלי",
+    "add-business": "הוספת עסק",
+    "favorite": "מועדפים",
+    "title3": "חשבון",
+    "my-profile": "פרופיל שלי",
+    "update-profile": "עדכון פרופיל",
+    "signout": "התנתקות"
+  },
+  "wish-list": {
+    "favorites": "מועדפים",
+    "my-favorite": "מועדפים שלי",
+    "delete": "מחיקה"
+  },
+  "user-profiles": {
+    "business-for": "העסקים של:"
+  },
+  "more-filters": {
+    "open": "פתוח",
+    "popularity": "פופולאריות",
+    "services": "שרותים נוספים"
+  },
+  "basic-details": {
+    "basic-details": "פרטי עסק",
+    "business-name": "שם עסק",
+    "category": "קטגוריה",
+    "short-business-name": "שם עסק מקוצר"
+  },
+  "opening-hour": {
+    "opening-hours": "שעות פתיחה",
+    "opening-hour": "שעת פתיחה",
+    "closing-hour": "שעת סגירה",
+    "closed": "סגור",
+    "open": "פתוח"
+  },
+  "details": {
+    "details": "פרטים",
+    "description": "תאור",
+    "phone": "טלפון",
+    "website": "אתר",
+    "email": "אמייל",
+    "amenities": "שרותים",
+    "elevator-in-building": "מעילת בבנין",
+    "friendly-workspace": "סביבת עבודה ידידותית",
+    "instant-book": "Instant Book",
+    "wireless-internet": "אינטרנט אלחוטי",
+    "free-parking-on-premises": "חניה חינם במקום",
+    "smoking-allowed": "עישון מאופשר",
+    "events": "ארועים",
+    "optional": "אוציונלי",
+    "google": "גוגל+"
+  },
+  "location": {
+    "location": "מיקום",
+    "address": "כתובת",
+    "zip-code": "מיקוד",
+    "cities-for-advertising": "ערים לפרסום",
+    "add-city": "הוסף עיר",
+    "seo": "מילות מפתח | SEO",
+    "add-Seo-key-word": "הוסף מילת מפתח",
+    "seo-description": " מילות תאור | SEO"
+  },
+  "contact": {
+    "find-us": "מצא אותנו",
+    "phone": "טלפון",
+    "fax": "פקס",
+    "website": "אתר",
+    "contact-us": "צור קשר",
+    "email": "מייל",
+    "message": "הודעה",
+    "subject": "נושא",
+    "name": "שם",
+    "sending": "שליחה",
+    "our-office": "המשרד שלנו",
+    "street": "רחוב בר כוכבא 4",
+    "city": "בני ברק",
+    "required-fields": "עליך להזין שדות חובה"
+  },
+  "item-result-search-scond": {
+    "open-now": "פתוח עכשיו",
+    "close-now": "סגור עכשיו"
+  },
+  "my-business": {
+    "business": "עסקים",
+    "my-business": "עסקים שלי",
+    "delete": "מחיקה",
+    "edit": "עריכה",
+    "confirm": "אישור",
+    "cancel": "ביטול"
+  },
+  "user-menu-profile": {
+    "hello": "שלום",
+    "my-profile": "הפרופיל שלי",
+    "my-dashboard": "האיזור האישי שלי",
+    "my-favorites": "מועדפים שלי",
+    "my-businesses": "עסקים שלי",
+    "add-business": "הוספת עסק",
+    "logout": "התנתקות"
+  },
+  "updataProfile": {
+    "my-profile": "פרופיל שלי",
+    "profile-details": "עדכון פרופיל",
+    "upload-photo": "העלה תמונה",
+    "your-name": "שם",
+    "last-name": "משפחה",
+    "youTube": "יוטיוב",
+    " instagram": "אינסטגרם",
+    "linkedin": "לינקדין",
+    "phone": "טלפון",
+    "notes": "הערות",
+    "twitter": "טוויטר",
+    "facebook": "פייסבוק",
+    "email": "אימיל",
+    "save-changes": "עדכן",
+    "change-password": "עדכון סיסמא"
+  },
+  "top-businesses": "עסקים פופולריים",
+  "most-preferred-business": " העסקים המועדפים ביותר",
+  "searchResults": {
+    "serach-results-for": "תוצאות חיפוש ל",
+    "location": "במיקום",
+    "show-more": "תוצאות נוספות",
+    "note": "אין לנו את המידע הרלוונטי לנתונים שמגיעים מ - google"
+  },
+  "sideBar": {
+    "open": "פתוח ",
+    "now": "פתוח עכשיו",
+    "night": "פתוח בלילה",
+    "saturday": "פתוח בשבת",
+    "hours": "יום ושעה"
+  },
+  "addComment": {
+    "leave-reply": "השאר תגובה",
+    "email-published": "כתובת האימייל שלך לא תפורסם",
+    "submit": "הכנס תגובה",
+    "your-message": "ההודעה שלך"
+  },
+  "cards": {
+    "categories": "קטגוריות",
+    "address": "כתובת"
+  }
+}

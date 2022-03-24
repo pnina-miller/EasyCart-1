@@ -1,0 +1,110 @@
+.borderRadius {
+    border-radius: 3rem !important;
+    width: 100%;
+    padding: 0px
+}
+
+.imgSize {
+    background-size: cover;
+}
+
+.imgCover {
+    object-fit: cover;
+}
+
+.height30 {
+    height: 30%
+}
+
+.height70 {
+    height: 70%
+}
+
+.height60 {
+    height: 60%
+}
+
+.height40 {
+    height: 40%
+}
+
+.heightFade {
+    min-height: 28vh !important
+}
+
+.iconReview>svg {
+    fill: var(--yellow)!important;
+}
+
+.borderRadiuceRow {
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.wrapperSvg {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    height: 100%;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.styleSvgIcon {
+    width: fit-content;
+    cursor: pointer;
+    border-radius: 80px;
+    background-color: #0000007a;
+    border: solid 2px white;
+}
+
+.photoSkeleton {
+    width: 100%;
+    height: 100%;
+    margin: 0px !important;
+    border-radius: 30px !important;
+}
+
+.uloadStyle {
+    cursor: pointer;
+}
+
+.rowHeight {
+    height: 450px
+}
+
+.halfHeight {
+    height: 225px
+}
+
+.changeHeight {
+    height: 450px
+}
+
+.imgStyleCover {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+@media screen and (max-width:990px) {
+    .changeHeight {
+        height: 100% !important
+    }
+}
+
+@media screen and (max-width:460px) {
+    .iconResponsive>div>svg {
+        height: 50px !important;
+    }
+}
+
+.iconResponsive>div>svg {
+    height: 100px;
+}
+
+.photoWidth {
+    width: 100vw;
+}

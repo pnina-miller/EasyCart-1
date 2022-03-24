@@ -1,0 +1,65 @@
+.HeaderCancel {
+    border-bottom: none !important;
+    padding: 10px 10px 0px !important;
+}
+
+.ModalBody {
+    padding: 0px 30px 0px 30px !important;
+}
+
+.InputUrl {
+    background: white;
+    height: 40px;
+    width: 335px;
+    border-radius: 5px;
+    margin: 0;
+    border: none
+}
+
+@media (max-width:600px) {
+    .InputUrl {
+        width: 300px;
+    }
+}
+
+.ShaerWrapButtons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90px;
+    /* flex-direction: column; */
+}
+
+@media (max-width:600px) {
+    .ShaerWrapButtons {
+        flex-direction: column;
+    }
+}
+
+.ShaerButtonsColum {
+    margin: '5px 0px 5px'
+}
+
+.UrlDetailsWrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CopyAndQrWrap {
+    background: white;
+    border-radius: 5px;
+    margin: 0;
+    height: 40px;
+    display: 'flex';
+    align-items: 'center';
+    background: 'white';
+    border-radius: '5px';
+    margin: 0,
+
+}
+@media (max-width:600px) {
+    .DivQrCodeStyle {
+        display: none;
+    }
+}

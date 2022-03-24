@@ -1,0 +1,83 @@
+.user-menu-div {
+  margin: 0 auto !important;
+  direction: ltr !important;
+  letter-spacing: 0px !important;
+  text-align: left !important;
+  height: max-content;
+}
+.user-menu-div>div:first-child{
+  height: 450px;
+  margin-bottom: 20px;
+
+}
+
+.user-menu-div .tab-buttons {
+  margin-bottom: 50px;
+}
+.user-menu-div  .tab-buttons button {
+  font-size: 23px !important;
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 2px solid #E4E4E5 !important;
+  outline: none !important;
+  padding: 10px 30px !important;
+  cursor: pointer !important;
+  color: rgba(0, 0, 0, 0.4) !important;
+  transition: all ease-in-out 0.2s !important;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-transform: lowercase;
+}
+.user-menu-div .tab-buttons .active {
+  border-bottom: 2px solid var(--green-blue) !important;
+  color:var(--green-blue) !important;
+
+}
+.content-overview {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 19px/29px var(--unnamed-font-family-roboto) !important;
+  font: normal normal normal 19px/29px Roboto !important;
+  letter-spacing: 0px !important;
+  color: var(--fourth-color) !important;
+  font-size: 1vw !important;
+  line-height: 2vw !important;
+  height: 350px;
+  width: 100%;
+  max-width: 1300px;
+
+}
+@media screen and (max-width: 1700px) {
+ .content-overview{
+    font: normal normal normal 19px/29px Roboto !important;
+  }
+}
+@media only screen and (max-width: 1190px) {
+  .user-menu-div .tab-buttons button {
+    font-size: 18px !important;}
+}
+@media only screen and (max-width: 711px) {
+  .user-menu-div .tab-buttons button {
+    font-size: 16px !important;
+    padding: 10px 20px !important;
+  }
+}
+@media only screen and (max-width: 590px) {
+  .user-menu-div .tab-buttons button {
+    font-size: 15px !important;
+    padding: 10px 15px !important;
+
+  }
+}
+@media only screen and (max-width: 470px) {
+  .user-menu-div .tab-buttons button {
+    font-size: 13px !important;
+    padding: 10px 13px !important;
+
+  }
+  }
+@media only screen and (max-width: 305px) {
+  .user-menu-div .tab-buttons button {
+   display: block;
+  }
+}
+

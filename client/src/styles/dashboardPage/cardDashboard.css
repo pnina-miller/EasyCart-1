@@ -1,0 +1,51 @@
+.cardStyle {
+    opacity: 0.9;
+}
+.headerSetStyle {
+    border-bottom: 0px !important;
+    border-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    border-bottom: 0px !important;
+}
+.blockquote-footer::before {
+    content: none !important;
+}
+
+.textBlack {
+    color: var(--second-color) !important;
+}
+
+.pro-sidebar .pro-menu.shaped .pro-menu-item>.pro-inner-item>.pro-icon-wrapper {
+    background-color: none !important;
+}
+
+.pro-sidebar .pro-menu.shaped .pro-menu-item>.pro-inner-item>.pro-icon-wrapper {
+    background-color: transparent !important;
+}
+
+.iconStyle {
+   background-color:var(--third-color);
+}
+
+.imgRounded {
+    border-radius: 36rem !important;
+}
+
+.marginUp {
+    margin-top: 7rem;
+}
+
+.men div:first-child:focus {
+    border-left: solid var(--first-color) !important;
+    color:var(--first-color) !important;
+}
+.card-body-Main {
+    background-color: rgb(242 242 242)!important;
+}
+.cancelBorder {
+    border:none !important;
+}
+
+.mainWith{
+    padding: 0px;
+}
